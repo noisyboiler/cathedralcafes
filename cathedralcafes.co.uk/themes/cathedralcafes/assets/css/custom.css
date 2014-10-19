@@ -29,8 +29,16 @@ p {
 /* global classes */
 
 .copy {
-  padding: 0 50px;
+  padding: 10px 50px;
 }
+
+.container {
+  border-bottom: 5px solid white;
+  width: 970px;
+}
+
+
+
 
 
 .navbar-header {
@@ -92,7 +100,6 @@ header .intro p {
 
 header .container {
   height: 361px;
-  border-bottom: 5px solid white;
   border-top: 5px solid white;
 }
 
@@ -289,9 +296,7 @@ section {
   border: 1px solid transparent;
 }
 
-.container {
-  width: 970px;
-}
+
 
 /* crtiique/scoring */
 

@@ -1,5 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Kreon:400,700);
 
+/* html elements */
+
 html,
 body {
   height: 100%;
@@ -20,6 +22,14 @@ h1 {
 p {
   font-size: 16px;
   line-height: 20px;
+  font-family: monospace;
+}
+
+
+/* global classes */
+
+.copy {
+  padding: 0 50px;
 }
 
 
@@ -42,7 +52,6 @@ header {
   background: url('./img/stpauls-sunbeam.jpg') no-repeat top center;
   color:#000000;
   height: 361px;
-  margin-top: 10px;
 }
 
 header h1 {
@@ -72,7 +81,6 @@ header .intro {
 
 header .intro p.lead {
   margin-top: -15px;
-  color: #003300;
   font-size: 18px;
   line-height: 20px;
 }
@@ -85,6 +93,7 @@ header .intro p {
 header .container {
   height: 361px;
   border-bottom: 5px solid white;
+  border-top: 5px solid white;
 }
 
 
@@ -292,7 +301,7 @@ section {
   float:left;
   width:100%;
   height:220px;
-  margin-top:40px;
+  margin:40px 0 40px 0;
   padding:0;
 }
 

@@ -8,6 +8,20 @@ body {
   font: normal 14px arial,sans-serif;
 }
 
+h1 {
+  display: block;
+  color: #003300;
+  font-size: 60px;
+  width: 450px;
+  height:40px;
+  background: url('./img/cathedralcafes.png') no-repeat;
+}
+
+p {
+  font-size: 16px;
+  line-height: 20px;
+}
+
 
 .navbar-header {
   margin: 0;
@@ -25,20 +39,15 @@ body {
 
 
 header {
-  background: url('./img/stpauls.jpg') no-repeat top center;
-  height:550px;
+  background: url('./img/stpauls-sunbeam.jpg') no-repeat top center;
   color:#000000;
+  height: 361px;
+  margin-top: 10px;
 }
 
 header h1 {
   display: block;
   margin: 10px 0 10px 0;
-}
-
-header h1,header h2,header h3 a,header a,header a:hover {
-  color:#101010;
-  font-weight:800;
-  text-decoration:none;
 }
 
 header h3 {
@@ -61,8 +70,21 @@ header .intro {
   padding-top: 20px;
 }
 
-header .lead{
-  margin-top: -20px;
+header .intro p.lead {
+  margin-top: -15px;
+  color: #003300;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+header .intro p {
+  font-size: 18px;
+  line-height: 22px;
+}
+
+header .container {
+  height: 361px;
+  border-bottom: 5px solid white;
 }
 
 
@@ -102,6 +124,11 @@ header .lead{
 #wrap > .container {
   padding: 0;
 }
+
+main .container {
+  background: url('./img/watercolor-paper.jpg') repeat;
+}
+
 .container .credit {
   margin: 20px 0;
 }
@@ -117,12 +144,6 @@ header .lead{
 h1,h2,h3,h4 {
   font-family: 'Kreon', serif;
   vertical-align:middle;
-}
-
-
-
-h1 {
-  font-size:50px;
 }
 
 #nav {
@@ -258,6 +279,71 @@ section {
   margin-bottom: 0px;
   border: 1px solid transparent;
 }
+
+.container {
+  width: 970px;
+}
+
+/* crtiique/scoring */
+
+#critique {
+  z-index:30;
+  position:relative;
+  float:left;
+  width:100%;
+  height:220px;
+  margin-top:40px;
+  padding:0;
+}
+
+#critique .wrp {
+  padding:0 0 20px 0;
+}
+
+#critique .wrp .copy {
+  padding:0 0 0 40px;
+  margin:0;
+}
+
+.criteria
+{
+  display: block;
+  position: relative;
+  float: left;
+  width: 160px;
+  height: 140px;
+  text-align: center;
+  padding: 5px;
+  margin: 0 5px 0 5px;
+  background: transparent
+}
+
+.criteria .info {
+  display:block;
+  clear:both;
+  position: absolute;
+  top:110px;
+  left:0px;
+  width:100%;
+  height:100px;
+  text-align:center;
+  color:white;
+  font-size:18px;
+  font-weight:bold;
+  background:transparent;
+}
+
+.criteria img {
+  display:block;
+  position: relative;
+  margin:0 auto;
+  vertical-align:bottom;
+}
+
+.criteria a:hover h3, .criteria a:hover p{
+  color:#EFFB80;
+}
+
 
 
 

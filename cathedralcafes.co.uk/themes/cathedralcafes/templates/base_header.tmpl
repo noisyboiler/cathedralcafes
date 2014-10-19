@@ -3,23 +3,16 @@
 
 {% macro html_header() %}
 
-            <div class="row">
-              <div class="col-sm-6">
-                <h1><a href="#" title="Bootstrap Template">Cathedral Cafes</a>
-                  <p class="lead">{Tea drinkers, cathedral tinkers}</p></h1>
-              </div>
-              <div class="col-sm-6">
-                <div class="pull-right  hidden-xs">    
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown"><h3><i class="glyphicon glyphicon-cog"></i></h3></a>
-                  <ul class="dropdown-menu">
-                      <li><a href="#"><i class="glyphicon glyphicon-chevron-right"></i> Link</a></li>
-                      <li><a href="#"><i class="glyphicon glyphicon-user"></i> Link</a></li>
-                      <li><a href="#"><i class="glyphicon glyphicon-lock"></i> Link</a></li>
-                      <li><a href="#"><i class="glyphicon glyphicon-cog"></i> Link</a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
+  <div class="row">
+    <div class="col-sm-6">
+
+    </div>
+    <div class="col-sm-6 intro">
+
+      <h1>Cathedral Cafes
+        <p class="lead">{Tea drinkers, cathedral tinkers}</p></h1>
+    </div>
+  </div>
 
 {% endmacro %}
 
@@ -41,13 +34,7 @@
     <div class="container">
       <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav nav-justified">
-        {% for url, text in navigation_links[lang] %}
-            {% if rel_link(permalink, url) == "#" %}
-                <li class="active"><a href="{{ permalink }}">{{ text }}</a></li>
-            {% else %}
-                <li><a href="{{ url }}">{{ text }}</a></li>
-            {% endif %}
-        {% endfor %}
+        
         </ul>
       </div><!--/.nav-collapse -->
     </div><!--/.container -->

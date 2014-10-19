@@ -8,6 +8,69 @@ body {
   font: normal 14px arial,sans-serif;
 }
 
+
+.navbar-header {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-brand {
+  display: block;
+  width: 60px;
+  height: 45px;
+  margin: 5px 3px 0 2px;
+  padding: 0;
+  background: url('./img/logo-small.png') no-repeat center;
+}
+
+
+header {
+  background: url('./img/stpauls.jpg') no-repeat top center;
+  height:550px;
+  color:#000000;
+}
+
+header h1 {
+  display: block;
+  margin: 10px 0 10px 0;
+}
+
+header h1,header h2,header h3 a,header a,header a:hover {
+  color:#101010;
+  font-weight:800;
+  text-decoration:none;
+}
+
+header h3 {
+  font-family: 'Kreon', serif;
+  background: #ffcc33;
+  padding:10px;
+  border-radius:3px;
+  font-size:34px;
+  padding:12px 10px 6px 10px;
+}
+
+header .dropdown-menu {
+  top:74px;
+  background: #ffcc33;
+  border-width:0;
+}
+
+/* lower the logo and H1 */
+header .intro {
+  padding-top: 20px;
+}
+
+header .lead{
+  margin-top: -20px;
+}
+
+
+.postindex article header {
+  height: auto;
+  background: green;
+}
+
 .row {
   margin-left:0px;
   margin-right:0px;
@@ -37,7 +100,7 @@ body {
 -------------------------------------------------- */
 
 #wrap > .container {
-  padding: 60px 15px 0;
+  padding: 0;
 }
 .container .credit {
   margin: 20px 0;
@@ -56,32 +119,7 @@ h1,h2,h3,h4 {
   vertical-align:middle;
 }
 
-header {
-  background: #f16251;
-  height:550px;
-  color:#000000;
-}
 
-header h1,header h2,header h3 a,header a,header a:hover {
-  color:#101010;
-  font-weight:800;
-  text-decoration:none;
-}
-
-header h3 {
-  font-family: 'Kreon', serif;
-  background: #ffcc33;
-  padding:10px;
-  border-radius:3px;
-  font-size:34px;
-  padding:12px 10px 6px 10px;
-}
-
-header .dropdown-menu {
-  top:74px;
-  background: #ffcc33;
-  border-width:0;
-}
 
 h1 {
   font-size:50px;
@@ -214,3 +252,12 @@ section {
 	padding-top:30px;
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(20,20,20,0.2)),to(rgba(255,255,255,0)), color-stop(1,#000));
 }
+
+/* bootsrap overrides */
+.navbar {
+  margin-bottom: 0px;
+  border: 1px solid transparent;
+}
+
+
+

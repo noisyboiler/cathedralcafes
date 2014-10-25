@@ -29,7 +29,7 @@ p {
 /* global classes */
 
 .copy {
-  padding: 10px 50px;
+  padding: 10px 0px;
 }
 
 .container {
@@ -106,7 +106,6 @@ header .container {
 
 .postindex article header {
   height: auto;
-  background: green;
 }
 
 .row {
@@ -355,9 +354,22 @@ section {
 }
 
 .criteria a:hover h3, .criteria a:hover p{
-  color:#EFFB80;
+  color:#000000;
 }
 
 
+/* index cathedral headers */
+.postindex article header.lincoln {
+  background: url('./img/lincoln-header-bg.jpg') no-repeat left top; 
+}
+
+.postindex article header h2 a {
+  display: block;
+  color: #fff000;
+  font-family: 'Kreon', serif;
+  font-size: 82px;
+  line-height: 84px;
+  text-align: left;
+}
 
 

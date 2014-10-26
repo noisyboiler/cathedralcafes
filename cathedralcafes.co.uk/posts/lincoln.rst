@@ -1,7 +1,7 @@
 .. title: Lincoln
 .. slug: lincoln
-.. date: 2011-05-26 13:00:00 UTC+0:00
-.. tags: cathedral, lincoln
+.. date: 2011-05-26 16:00:00 UTC+0:00
+.. tags: cathedral, lincoln, tea
 .. link: 
 .. description: 
 .. type: text

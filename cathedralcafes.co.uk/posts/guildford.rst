@@ -1,4 +1,5 @@
 .. title: Guildford
+.. location: Guildford
 .. slug: guildford
 .. date: 2014-06-18 16:00:00 UTC+0:00
 .. tags: cathedral, guildford, tea, draft

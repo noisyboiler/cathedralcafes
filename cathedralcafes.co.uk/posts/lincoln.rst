@@ -1,4 +1,6 @@
 .. title: Lincoln
+.. location: Lincoln
+.. church_name: Cathedral Church of the Blessed Virgin Mary
 .. slug: lincoln
 .. date: 2011-05-26 16:00:00 UTC+0:00
 .. tags: cathedral, lincoln, tea
@@ -6,11 +8,30 @@
 .. description: 
 .. type: text
 .. class: lincoln
+.. summary: Lincoln was a small,comfortable cafe,a feast of architecture, holdiing treasure and stories... but was light on dead people.
 
-It was early on a bright Sunday in May; surely few of the travellers filling the concourse of King's Cross station had a day in prospect as exciting as that of Shrub, Sneak and The Spesh, embarking, full of hope and anticipation, on the inaugural journey of their tour of \
-the gift shops and cafeteria of England's cathedrals.
+================
+Lincoln
+================
+
+.. raw:: html
+
+	<div class="teaser">
+
+An architectural treat,to which we should thank Bishop Hugh, who was quite a popular chap back in the late 1100's. By far the most important figure-head Lincoln Cathedral has seen and he will be disappointed to be automatically disqualified from the Dead Person category simply because of his career choice. His zeal for the beauty of 'the house of God' led to decades of, in cathedral terms,outrageous and sumptuous architecture.
+
+Built on a hill to be closer to the clouds,with 1000 years of history, this building stands out amongst Cathedrals.
+
+Must-Dos: Roof tour, Magna Carta, Imp.
+
+.. raw:: html
+
+	</div>
 
 .. TEASER_END
+
+It was early on a bright Sunday in May; surely few of the travellers filling the concourse of King's Cross station had a day in prospect as exciting as that of Shrub, Sneak and The Spesh, embarking, full of hope and anticipation, on the inaugural journey of their tour of the gift shops and cafeteria of England's cathedrals.
+
 
 Not even the pounding rain that greeted them in Lincoln could dampen their enthusiasm; the cathedral was visible through the gloom, towering on a hill at the heart of the historic city. Before heading to the church, the trio thought it prudent to fortify their fibres with a snifter and spot of scran in a local boozer: The Still on Saltergate proved accommodating, and offered the excellent value for money The Spesh so appreciates.
 

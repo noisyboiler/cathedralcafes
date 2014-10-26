@@ -24,8 +24,69 @@
     {{ helper.meta_translations(post) }}
 {% endblock %}
 
+{% block header_class %} article{% endblock %}
+
+{% block header %}
+<div class="container">
+    <div class="copy">
+        <h1>{{ post.meta('church_name') }}</h1>
+    </div>
+    <div id="critique" class="article">
+
+        <div class="wrp">
+        <div class="copy">
+
+            <div class="criteria">
+            <img src="/assets/img/icons/cafe.png" alt="cafe tea-cup" />
+            <div class="info">
+            <p>{{ post.meta('cafe') or '?' }}</p>
+            </div>
+            </div>
+
+            <div class="criteria">
+            <img src="/assets/img/icons/dead-people.png" alt="grave stone!" />
+            <div class="info">
+            <p>{{ post.meta('dead_people') or '?' }}</p>
+            </div>
+            </div>
+
+            <div class="criteria">
+            <img src="/assets/img/icons/treasures.png" alt="treasure chest" />
+            <div class="info">
+            <p>{{ post.meta('treasures') or '?' }}</p>
+            </div>
+            </div>
+
+            <div class="criteria">
+            <img src="/assets/img/icons/architectural-features.png" alt="cathedral" />
+            <div class="info">
+            <p>{{ post.meta('architecture') or '?' }}</p>
+            </div>
+            </div>
+
+            <div class="criteria">
+            <img src="/assets/img/icons/stories-trivia.png" alt="?" />
+            <div class="info">
+            <p>{{ post.meta('trivia') or '?' }}</p>
+            </div>
+            </div> 
+
+        </div>
+        </div>
+
+        <div class="clearfix"></div>
+        <p>{{ post.meta('summary') }}</p>
+
+    </div>
+
+</div>
+{% endblock%}
+
 {% block content %}
+<div class="container">
+
 <article class="post-{{ post.meta('type') }} h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article">
+
     {{ pheader.html_post_header() }}
     <div class="e-content entry-content" itemprop="articleBody text">
     {{ post.text() }}
@@ -45,4 +106,6 @@
     {{ helper.mathjax_script(post) }}
 </article>
 {{ comments.comment_link_script() }}
+
+</div>
 {% endblock %}

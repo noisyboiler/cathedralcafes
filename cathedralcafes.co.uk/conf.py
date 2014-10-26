@@ -17,16 +17,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Your Name"  # (translatable)
-BLOG_TITLE = "Demo Site"  # (translatable)
+BLOG_AUTHOR = ""  # (translatable)
+BLOG_TITLE = "Cathedral Cafes"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://getnikola.com/"
+SITE_URL = "http://cathedralcafes.co.uk"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://getnikola.com/"
-BLOG_EMAIL = "joe@demo.site"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BASE_URL = "http://cathedralcafes.co.uk"
+BLOG_EMAIL = "noisyboiler@googlemail.com"
+BLOG_DESCRIPTION = "A quick trip around each of our Church Of England cathedral cafes"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -294,7 +294,9 @@ REDIRECTIONS = []
 # And then do a backup, or run `nikola ping` from the `ping`
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
-# DEPLOY_COMMANDS = []
+DEPLOY_COMMANDS = [
+    "rsync -rav --delete --rsh='ssh -p912' output/ simon@simonharrison.info:/srv/cathedralcafes.co.uk/www",
+]
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
@@ -453,8 +455,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}'
-
+CONTENT_FOOTER = ''
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
 # intelligently format the setting properly.
@@ -487,7 +488,7 @@ COMMENT_SYSTEM = "disqus"
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "nikolademo"
+COMMENT_SYSTEM_ID = "cathedralcafes"
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
@@ -517,7 +518,7 @@ COMMENT_SYSTEM_ID = "nikolademo"
 # it will instead /foo/default.html => /foo)
 # (Note: This was briefly STRIP_INDEX_HTML in v 5.4.3 and 5.4.4)
 # Default = False
-# STRIP_INDEXES = False
+STRIP_INDEXES = True
 
 # Should the sitemap list directories which only include other directories
 # and no files.
@@ -538,7 +539,7 @@ COMMENT_SYSTEM_ID = "nikolademo"
 # This can be disabled on a per-page/post basis by adding
 #    .. pretty_url: False
 # to the metadata
-# PRETTY_URLS = False
+PRETTY_URLS = True
 
 # If True, publish future dated posts right away instead of scheduling them.
 # Defaults to False.
@@ -608,10 +609,10 @@ COMMENT_SYSTEM_ID = "nikolademo"
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10

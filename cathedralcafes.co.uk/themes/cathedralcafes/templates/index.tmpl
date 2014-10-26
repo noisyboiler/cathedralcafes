@@ -9,73 +9,67 @@
 
 {% block header %}
     <div class="col-sm-6"></div>
-    <div class="col-sm-6 intro">
+    <div class="col-sm-4 intro">
         <h1><p class="lead">(tea drinkers, cathedral tinkers)</p></h1>
         <p>We are visting every one of our Church Of England cathedral cafes &mdash; how exciting!!</p>
-        <p>This is a <i>very</i> important challenge that will finally unveil England's finest cathedral after almost 2000 years of guesswork.</p>
+        <p>This is a <i>very</i> important challenge that will eventually unveil England's finest cathedral after almost 2000 years of guesswork.</p>
     </div>
 {% endblock%}
 
 {% block content %}
 <div class="container">
 
-    <div class="postindex">
+    <div class="postindex copy">
         <p class="copy important">Each church is <i>brutally</i> critiqued on fundamental criteria &mdash; such as their cakes &mdash; then each is given a "lifeline" with a chance to add to their score by the quality of their dead people, individual querks or by however they charmed us on the day.</p>
         <p class="copy important">So, which church has the "&dagger;-factor"?</p>
     </div>
+
+</div>
+
+<div class="container">
 
     <div id="critique">
         <div class="wrp">
         <div class="copy">
 
             <div class="criteria">
-            <a href="" title="Cathedral Cafes!">
             <img src="./assets/img/icons/cafe.png" alt="cafe tea-cup" />
             <div class="info">
             <h3>CAFE</h3>
             <p>The cornerstone of every Cathedral</p>
             </div>
-            </a>
             </div>
 
             <div class="criteria">
-            <a href="" title="Dead People">
             <img src="./assets/img/icons/dead-people.png" alt="grave stone!" />
             <div class="info">
             <h3>DEAD PEOPLE</h3>
             <p>Famous bodies buried</p>
             </div>
-            </a>
             </div>
 
             <div class="criteria">
-            <a href="" title="Treasures">
             <img src="./assets/img/icons/treasures.png" alt="treasure chest" />
             <div class="info">
               <h3>TREASURES</h3>
               <p>Valued items</p>
             </div>
-            </a>
             </div>
 
             <div class="criteria">
-            <a href="" title="Architectural Features">
             <img src="./assets/img/icons/architectural-features.png" alt="cathedral" />
             <div class="info">
               <h3>ARCHITECTURE</h3>
               <p>Structural wonders</p>
             </div>
-            </a>
             </div>
 
             <div class="criteria">
-            <a href="" title="Stories, Myths and Legends">
             <img src="./assets/img/icons/stories-trivia.png" alt="?" />
             <div class="info">
               <h3>STORIES</h3>
               <p>Myths, stories and anecdotes</p>
             </div>
-            </a>
             </div> 
 
         </div>
@@ -83,10 +77,11 @@
     </div>
 
     <div class="postindex">
+    <a name="cathedrals" class="anchor"></a>
     {% for post in posts %}
         <article class="h-entry post-{{ post.meta('type') }} {{ post.meta('class') }}">
         <header class="{{ post.meta('class') }}">
-            <h2><a href="{{ post.permalink() }}">{{ post.title() }}</h2></a>
+            <h2><a href="{{ post.permalink() }}">{{ post.meta('location') }}</h2></a>
             <div class="metadata">
                 <p class="dateline"><a href="{{ post.permalink() }}" rel="bookmark"><time class="published dt-published" datetime="{{ post.date.isoformat() }}" itemprop="datePublished" title="{{ messages("Publication date") }}">{{ post.formatted_date(date_format) }}</time></a></p>
             </div>
@@ -101,6 +96,18 @@
         </div>
         </article>
     {% endfor %}
+    </div>
+
+    <div id="scoreboard">
+        <a name="scores" class="anchor"></a>
+        <h2>The Score Board</h2>
+        <ol>
+           <li>Lincoln 100</li>
+           <li>Exeter 100</li>
+           <li>Guildford 100</li>
+           <li>Chichester 100</li>
+           <li>Rochester 100</li>
+        </ol>
     </div>
 
 </div>

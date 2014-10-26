@@ -1,4 +1,6 @@
 .. title: Rochester
+.. location: Rochester
+.. church_name: Cathedral Church of Christ and the Blessed Virgin Mary
 .. slug: rochester
 .. date: 2011-12-04 16:00:00 UTC+0:00
 .. tags: cathedral, rochester, tea
@@ -6,10 +8,29 @@
 .. description: 
 .. type: text
 .. class: rochester
+.. summary: Rochester Cathedral is a fine Norman,has a famous mouse,has a really old clock and has roots with one of our most famous writers.
 
-Readers will recall Rochester was the first place reached by those other bemused adventurers on a perambulatory tour of England, the Corresponding Society of the Pickwick Club. Doubtless the authenticated accounts of Shrub, Sneak and The Spesh's own wanderings, recorded herewith, will, in time, be regarded with the same esteem as those of Dickens' heroes. With that in mind, let it be noted that, like the noble Pickwickians, Shrub, Sneak and The Spesh recognise the principle of every member defraying his own travelling expenses.
+================
+Rochester
+================
+
+.. raw:: html
+
+	<div class="teaser">
+
+England's second oldest Cathedral,in its smallest diocese, this intimate church in central Rochester has over 1400 years of history and was cheated out of one of England's greatest dead people.
+
+King Ethelbert of Kent gave the go-ahead for construction in 604 and a choir school from that day still sings. But the only physical evidence of the Saxon church are the foundation stones; today's church mostly shows what happened when the Normans pitched-up and Bishop Gundulf got building; he created what is commonly cited as England's finest Norman church.
+ 
+Must-Dos: Tea at the cafe, find the Kent Bell, Dickens.
+
+.. raw:: html
+
+	</div>
 
 .. TEASER_END
+
+Readers will recall Rochester was the first place reached by those other bemused adventurers on a perambulatory tour of England, the Corresponding Society of the Pickwick Club. Doubtless the authenticated accounts of Shrub, Sneak and The Spesh's own wanderings, recorded herewith, will, in time, be regarded with the same esteem as those of Dickens' heroes. With that in mind, let it be noted that, like the noble Pickwickians, Shrub, Sneak and The Spesh recognise the principle of every member defraying his own travelling expenses.
 
 Fittingly, and due to complete accident, our plucky trio arrived in the historic Medway town in the midst of a Dickensian Festival. Held every Christmas, this spectacle features locals in period costume, tasty mulled wine sold in aid of veterans of the Afghan campaigns, roast chestnuts, and crowds so big as to require marshals with megaphones and high visibility jackets. It was a lot of fun.
 

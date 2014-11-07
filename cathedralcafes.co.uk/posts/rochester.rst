@@ -5,7 +5,7 @@
 .. date: 2011-12-04 16:00:00 UTC+0:00
 .. tags: cathedral, rochester, tea
 .. link: 
-.. description: 
+.. description: The official Cathedral Cafe visit to Rochester cathedral
 .. type: text
 .. class: rochester
 .. summary: Rochester Cathedral is a fine Norman,has a famous mouse,has a really old clock and has roots with one of our most famous writers.
@@ -18,11 +18,10 @@ Rochester
 
 	<div class="teaser">
 
-England's second oldest Cathedral, in its smallest diocese, this intimate church in central Rochester has over 1400 years of history and was cheated out of one of England's greatest dead bodies — Charles John Huffam Dickens.
+	England's second oldest Cathedral and possibly it's finest Norman church, in the smallest diocese, this intimate church in central Rochester has over 1400 years of history and was cheated out of one of England's greatest dead bodies — Charles John Huffam Dickens.
 
-King Ethelbert of Kent gave the go-ahead for construction in 604 and a choir school from that day still sings. But the only physical evidence of the Saxon church are the foundation stones; today's church mostly shows what happened when the Normans pitched-up and Bishop Gundulf got building and created what is commonly cited as "England's finest Norman church".
  
-Must-Dos: Tea at the cafe, find the Kent Bell, Dickens.
+	Must-Dos: Wheel Of Fortune, read the (slightly bitter) Dickens trivia, drink tea.
 
 .. raw:: html
 
@@ -42,3 +41,51 @@ Eventually, our selfless trio reached the cafeteria, which was packed, it being 
 even served by a vicar.
 
 Shrub, Sneak and The Spesh ended their day in a boisterous boozer by Rochester Castle, where The Spesh explained the chief differences between Men of Kent (those rumbustious fellows born east of the Medway) and Kentish Men (their effete westerly cousins). Or is it the other way round, with the Men of Kent in the west? The Spesh could not really remember; yet more evidence that his supposed learning can only be considered such in the Pickwickian sense of the term.
+
+The Cathedral Tea Rooms
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+The cafe is a busy affair with English gardens and a traditional feel. It has a lived-in and well-used character; no franchising here.
+There are home-made cakes on the counter, a simple menu and a queue holding as many locals as tourists. If you visit in the summer, the garden will almost certainly be where you will rest your tray. Even if it is too chilly, go and take a peek.
+
+We visited on a very busy day (it being the December Dickensian Festival) and so our experience of the main café may not be typical: we were served tea in cardboard and, while we accept some people like milky tea, it was weak. This has affected our scoring, perhaps unfairly. Luckily, a pop-up cafe appeared in the Crypt for festival day where the tea was in cups and was as strong as you liked!
+
+
+Trivia
+~~~~~~
+
+In 1130 a fire destroyed Rochester pretty much entirely. What was salvaged was probably lost in subsequent blazes in 1137 and 1179. Fire safety record: appauling.
+Unruly Monks bickered and feuded with the Canterbury monks, warred against the locals of Rochester, and fought for every pig and goose in the annual xenium feast.
+Rochester's foundations are the second oldest in the country
+The Bishop's Xenium - the Bishop should take the Xenium on the feast of St. Andrew wherever he might be (but what is it???)
+It is said the towns of East Kent held out against William the Conqueror longer than their neighbours - the "Men of Kent / Kentish Men" thing.
+
+Treasures
+~~~~~~~~~
+
+Wheel of Fortune painting, bearing wounds from the English civil war
+2004 Fresco, quite popular it is, or maybe it's the gift shop that is.
+Mosaic memorial to the Royal Engineers.
+The Kent Bell; a shiny bell!
+Charles Dickens' Memorial
+It is said the towns of East Kent held out against William the Conqueror longer than their neighbours;
+
+Dead People
+~~~~~~~~~~~
+
+William of Perth, a Scottish corpse with healin powers
+Charles Dickens’ ghost - Dickens was actually deemed too famous to rest by the Medway and his body was carted off to  Westminster Abbey.
+
+Architecture
+~~~~~~~~~~~~
+
+“romanesque” or “pre-Gothic” European architecture
+Round arches
+French monk and architect Gundulf, was the builder of much of the Tower of London
+The Green Men carvings
+
+Final Score
+-----------
+
+Congratulations Rochester, you are awarded XX points!

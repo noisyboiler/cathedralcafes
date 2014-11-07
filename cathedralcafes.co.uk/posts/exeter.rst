@@ -5,7 +5,7 @@
 .. date: 2012-05-15 16:00:00 UTC+0:00
 .. tags: cathedral, exeter, tea
 .. link: 
-.. description: 
+.. description: The official Cathedral Cafe visit to Exeter cathedral
 .. type: text
 .. class: exeter
 .. summary: Exeter cathedral has the cafe that other churches dream of! Some surprising treasures, classic architecture, a few bodies of note and some war stories to tell.
@@ -24,11 +24,11 @@ Exeter
 
 	<div class="teaser">
 
-This was a day out that took all the Cathedral Cafe adventurers a little by surprise. Apprehensive of the long 8am train journey from London but when greeted by glorious sunshine and a truly magnificent church on a delightful village green, we immediately banished the journey to the back of our minds.
+	This was a day out that took all the Cathedral Cafe adventurers a little by surprise. Apprehensive of the long 8am train journey from London but when greeted by glorious sunshine and a truly magnificent church on a delightful village green, we immediately banished the journey to the back of our minds.
 
-Stand-out feature: The Cafe! With it's vaulted roof, stained glass windows, immaculate garden, great food, tea and service. But don't spend your entire visit drinking the tea here — on a nice day ensure you leave time to soak up the atmosphere and the hustle and bustle on the green.
+	Stand-out feature: The Cafe! With it's vaulted roof, stained glass windows, immaculate garden, great food, tea and service. But don't spend your entire visit drinking the tea here — on a nice day ensure you leave time to soak up the atmosphere and the hustle and bustle on the green.
 
-Must-Dos: Admire the twin towers, find the Hickery Dickery clock and then the sledging flag.
+	Must-Dos: Check out the twin towers, find the Hickery Dickery clock, eat cake.
 
 .. raw:: html
 
@@ -51,15 +51,14 @@ Exeter's cafe is a real find. The trio struggled to find anything to fault in th
 Clositers Cafe
 ~~~~~~~~~~~~~~
 
-This cafe served Doom Bar straight from the barrel — heavenly. Just to be clear, whilst on duty neither Shrub, Sneak nor Spesh drank the Doom Bar (the long pre-visit lunch and scoring debates post-visit are exempt from such red tape and regulation).
-
-Great cup of tea here: great colour, great flavour, ample quantity. Plenty of *home-made* cakes — a must for the respect of CC. The Devon cream-teas were delicious with very generous servings of the clotted cream.
+This cafe served Doom Bar straight from the barrel — heavenly. Also a cracking cup of tea here. Plenty of *home-made* cakes — a must for the respect of CC. The Devon cream-teas were delicious and had a very generous serving of clotted cream.
 
 Trivia
 ~~~~~~
 
-The church was moved from its original site to counter the danger of maurauding Norsemen. Hickery Dickery Dock, the clock has a cat flap... Some speculate the nursury rhyme was inspired by Exeter\'s impressive clock, which was regularly put out of action by hungry mice munching through the ropework until a cat was let loose in the workings. Nazi bombing in 1942... with one direct hit! One of the replacement windows vividly depicta the night of the raid.
-
+History of maurauding Norsemen.
+Hickery Dickery Dock nursery rhyme
+Bombed by the Nazis and depicted in a colouful window
 
 Treasures
 ~~~~~~~~~
@@ -83,7 +82,7 @@ Architecture
 ~~~~~~~~~~~~
 
 Longest uninterrupted vaulted ceiling in the whole world
-The ONLY cathedral with two squres towers, one on each wall,giving it a UNIQUE footprint amongst our bishop\'s seats.
+The ONLY cathedral with two squres towers
 
 
 Final Score

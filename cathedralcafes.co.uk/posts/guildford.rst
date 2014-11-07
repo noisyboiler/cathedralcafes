@@ -15,6 +15,8 @@
 .. trivia:
 
 
+_ http://guildfordrefectory.co.uk/
+
 =========
 Guildford
 =========
@@ -25,7 +27,7 @@ Guildford
 
 	England's most modern cathedral, in a youthful 1927 diocese. Along with the Queen, one of team CC's grandmother owns a brick here.
 
-Must-Dos: Children's garden, major modern architecture, drink tea
+	Must-Dos: Children's garden, walk around the entire church for the modern architecture and views, drink tea
 
 .. raw:: html
 
@@ -44,36 +46,48 @@ The trip closed with a visit to the cathedral’s refectory. This brought back b
 Finally, an odd bit of trivia: movie fans will recognise Guildford cathedral from the 1976 film The Omen, where the infant antichrist refuses to cross the cathedral’s threshold, screaming from the back of an ambassadorial car at the sight of the building’s understated facade. Readers will be reassured that Shrub’s own offspring remained placid and content throughout the visit.
 
 
-  Cafe
+Guildford Refectory
 ~~~~~~~~~~~~~~
+
+Featuring probably the CofE's finest cathedral cafes website, this service was closed on our visit. This hit us *very* hard and there were tears and speaking in tongues. But, 2 of CC returned the following week - with great reward! - as we had a fine lunch of cake and tea. This is not just a cafe though, it's a venue - it will have seen much weddin madness.
+
+But be warned - this is a small cathedral and not a "big gun", so the cafe and gift shop have hours to suit - don't get caught out!!
 
 Trivia
 ~~~~~~
 
+This is the church from the 1961 film The Omen - yes! it's true.
 Designed by an Englishman: Sir Edward Brantwood Maufe
 Joint first youngest diocese
-Following WW2, building resumed on a budget and locals each bought a brick.
+Youngest cathedral, consecrated May 1961
+Following WW2, building resumed on a budget and locals each gave a brick.
 Mounted on Stag Hill - where kings of England once hunted deer.
 Solid red bricks taken from the clay hill where it stands
 Best o2 signal in the country - they pay good money to have a transmitter on the church spire!
 The fewest stained glass windows in fitting with the modernist architecture
 Royality that own bricks: .. . .. .
 Gift shop does not sell tea towels
-
+1500 hand made "kneelers"
+Guildford is a town and not a city - well done Guildford
+There is a 12th century synagougue (now closed) on the nearby high street 
 
 Treasures
 ~~~~~~~~~
 
 Has a whopping 12 bells.
-
+Bricks with Royal signatures
+Rotating display of treasures from churches in the diocese
 
 Dead People
 ~~~~~~~~~~~
 
+No.
 
 Architecture
 ~~~~~~~~~~~~
 
+Modern. Really different to any other cathedral.
+Clay bricks made from the hill that it rests on.
 
 Final Score
 -----------

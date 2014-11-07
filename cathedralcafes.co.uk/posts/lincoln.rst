@@ -18,9 +18,9 @@ Lincoln
 
 	<div class="teaser">
 
-An architectural treat,to which we should thank Bishop Hugh, who was quite a popular chap back in the late 1100's. By far the most important figure-head Lincoln Cathedral has seen and he will be disappointed to be automatically disqualified from the Dead Person category simply because of his career choice. His zeal for the beauty of 'the house of God' led to decades of, in cathedral terms,outrageous and sumptuous architecture.
+An architectural treat to which we should thank a Bishop Hugh who was quite a popular chap back in the late 1100's. By far the most important figure-head Lincoln Cathedral has seen (bar the Imp) he will be disappointed to be ignored from the Dead Person scoring category due to his career choice. His zeal for the beauty of "the house of God" led to decades of (in cathedral terms) outrageous and sumptuous architecture.
 
-Built on a hill to be closer to the clouds,with 1000 years of history, this building stands out amongst Cathedrals.
+Built on a hill to be closer to God and with 1000 years of history this building stands out amongst our Cathedrals.
 
 Must-Dos: Roof tour, Magna Carta, Imp.
 

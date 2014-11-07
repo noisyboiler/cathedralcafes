@@ -18,9 +18,9 @@ Rochester
 
 	<div class="teaser">
 
-England's second oldest Cathedral,in its smallest diocese, this intimate church in central Rochester has over 1400 years of history and was cheated out of one of England's greatest dead people.
+England's second oldest Cathedral, in its smallest diocese, this intimate church in central Rochester has over 1400 years of history and was cheated out of one of England's greatest dead bodies — Charles John Huffam Dickens.
 
-King Ethelbert of Kent gave the go-ahead for construction in 604 and a choir school from that day still sings. But the only physical evidence of the Saxon church are the foundation stones; today's church mostly shows what happened when the Normans pitched-up and Bishop Gundulf got building; he created what is commonly cited as England's finest Norman church.
+King Ethelbert of Kent gave the go-ahead for construction in 604 and a choir school from that day still sings. But the only physical evidence of the Saxon church are the foundation stones; today's church mostly shows what happened when the Normans pitched-up and Bishop Gundulf got building and created what is commonly cited as "England's finest Norman church".
  
 Must-Dos: Tea at the cafe, find the Kent Bell, Dickens.
 

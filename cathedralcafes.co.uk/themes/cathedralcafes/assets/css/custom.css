@@ -295,6 +295,19 @@ ul.thumbnails li a {
 
 
 
+
+/* scoreboard */
+
+#scoreboard h2 {
+  display: block;
+  color: #428bca;
+  font-family: 'Kreon', serif;
+  font-size: 82px;
+  line-height: 84px;
+  text-align: left;
+}
+
+
 /* crtiique/scoring */
 
 #critique {

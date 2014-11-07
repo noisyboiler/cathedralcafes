@@ -24,11 +24,11 @@ Exeter
 
 	<div class="teaser">
 
-This was a day out that took all the Cathedral Cafe adventurers a little by surprise. Apprehensive of the long 8am train journey from London but when greeted by glorious sunshine and a truly magnificent church on a delightful village green we immediately banished the journey to the back of our minds.
+This was a day out that took all the Cathedral Cafe adventurers a little by surprise. Apprehensive of the long 8am train journey from London but when greeted by glorious sunshine and a truly magnificent church on a delightful village green, we immediately banished the journey to the back of our minds.
 
-Stand-out feature: The Cafe! With it's vaulted roof, stained glass windows, immaculate garden, great food, great tea and great service. But don't spend your entire visit drinking the tea — on a nice day ensure you leave time to soak up the atmosphere and the hustle and bustle all around the church.
+Stand-out feature: The Cafe! With it's vaulted roof, stained glass windows, immaculate garden, great food, tea and service. But don't spend your entire visit drinking the tea here — on a nice day ensure you leave time to soak up the atmosphere and the hustle and bustle on the green.
 
-Must-Dos: Admire the twin towers, find Hickery Dickery clock and the sledging flag.
+Must-Dos: Admire the twin towers, find the Hickery Dickery clock and then the sledging flag.
 
 .. raw:: html
 
@@ -51,11 +51,9 @@ Exeter's cafe is a real find. The trio struggled to find anything to fault in th
 Clositers Cafe
 ~~~~~~~~~~~~~~
 
-This cafe served Doom Bar straight from the barrel!! Just to be clear, while on duty neither Shrub, Sneak nor Spesh drank
-the Doom Bar (the long pre-visit lunch and scoring debates post-visit are exempt from such red tape and regulation),
+This cafe served Doom Bar straight from the barrel — heavenly. Just to be clear, whilst on duty neither Shrub, Sneak nor Spesh drank the Doom Bar (the long pre-visit lunch and scoring debates post-visit are exempt from such red tape and regulation).
 
-Great cup of tea here: great colour, great flavour, ample quantity. Tea pots and saucers. Also extra hot water to top
-ourselves up. Plenty of cakes, cream teas and a few more substantial offerings. Home made. The Devon crea-teas were delicious, with generous servings of clotted cream. Delicious.,
+Great cup of tea here: great colour, great flavour, ample quantity. Plenty of *home-made* cakes — a must for the respect of CC. The Devon cream-teas were delicious with very generous servings of the clotted cream.
 
 Trivia
 ~~~~~~

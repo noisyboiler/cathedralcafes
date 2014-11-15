@@ -23,9 +23,9 @@ Lincoln
 
 	<div class="teaser">
 
-	An architectural treat found high up on a mound and with 1000 years of history this building stands out amongst our Cathedrals. Also features Imps.
+	<p>An architectural treat found high up on a mound and with 1000 years of history this building stands out amongst our Cathedrals. Also features Imps.</p>
 
-	Must-Dos: Roof tour, Magna Carta, Imp.
+	<p><span class="strong">Must-Dos:</span> <i>Roof tour, find some Imps, drink tea.</i></p>
 
 .. raw:: html
 
@@ -55,32 +55,31 @@ small, tidy, calm and well presented. Solid wood furniture. Nice colour scheme. 
 
 Trivia
 ~~~~~~
-- "I have always held and am prepared against all evidence to maintain that the Cathedral of Lincoln is out and out the most precious piece of architecture in the British Isles and roughly speaking worth any two other cathedrals we have." John Ruskin, 1819-1900.
-- Once the tallest building in the world! stealing the honour from Giza.
-- Giant spire blew over in 1548
 
+| "I have always held and am prepared against all evidence to maintain that the Cathedral of Lincoln is out and out the most precious piece of architecture in the British Isles and roughly speaking worth any two other cathedrals we have." John Ruskin, 1819-1900.
+| Once the tallest building in the world! stealing the honour from Giza.
+| Giant spire blew over in 1548
 
 Treasures
 ~~~~~~~~~
 
-Magna Carta
-The (Sir Christopher) Wren Library
+| Magna Carta
+| The (Sir Christopher) Wren Library
 
 Dead People
 ~~~~~~~~~~~
 
-None of note
+| Usual den of saints
 
 Architecture
 ~~~~~~~~~~~~
 
-The Roof is just a lid - a giant structure that stays in place purely because of it's humongous size and weight.
-The Western Towers resemble a fortress
-Choirs: St Hugh's, Angel
-The Dean's Eye and The Bishop's Eye - two large rose windows with highly unusual medieval features.
-Crazy experimental, asymetric Zig-Zag Vaults
-First use in a Cathedral of arched diagonal ribs, called tiercerons.
-
+| The Roof is just a lid - a giant structure that stays in place purely because of it's humongous size and weight.
+| The Western Towers resemble a fortress
+| Choirs: St Hugh's, Angel
+| The Dean's Eye and The Bishop's Eye - two large rose windows with highly unusual medieval features.
+| Crazy experimental, asymetric Zig-Zag Vaults
+| First use in a Cathedral of arched diagonal ribs, called tiercerons.
 
 Final Score
 -----------

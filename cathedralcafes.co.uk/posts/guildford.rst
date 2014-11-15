@@ -7,7 +7,7 @@
 .. description: The official Cathedral Cafe visit to Guildford cathedral
 .. type: text
 .. class: guildford
-.. summary: 
+.. summary: Architecturally and technologically England's most modern cathedral. 
 .. architecture: 
 .. dead_people:
 .. cafe: 
@@ -15,7 +15,7 @@
 .. trivia:
 
 
-_ http://guildfordrefectory.co.uk/
+.. _Guildford Refectory: http://guildfordrefectory.co.uk/
 
 =========
 Guildford
@@ -25,9 +25,9 @@ Guildford
 
 	<div class="teaser">
 
-	England's most modern cathedral, in a youthful 1927 diocese. Along with the Queen, one of team CC's grandmother owns a brick here.
+	<p>England's most modern cathedral, in a youthful 1927 diocese. Along with the Queen, one of team CC's grandmother owns a brick here.<p>
 
-	Must-Dos: Children's garden, walk around the entire church for the modern architecture and views, drink tea
+	<p><span class="strong">Must-Dos:</span>  <i>Re-enact scenes from The Omen, explore the modern architecture and views, drink tea.</i></p>
 
 .. raw:: html
 
@@ -47,49 +47,50 @@ Finally, an odd bit of trivia: movie fans will recognise Guildford cathedral fro
 
 
 Guildford Refectory
-~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
-Featuring probably the CofE's finest cathedral cafes website, this service was closed on our visit. This hit us *very* hard and there were tears and speaking in tongues. But, 2 of CC returned the following week - with great reward! - as we had a fine lunch of cake and tea. This is not just a cafe though, it's a venue - it will have seen much weddin madness.
+Featuring probably the CofE's finest cathedral cafes website, this service was closed on our visit. This hit us *very* hard and there were tears and speaking in tongues. However, the bravest two of the CC roadshow returned the following week - and for great reward! We had a fine lunch of cake and tea. This is not just a cafe though, it's a venue - it will have seen much wedding fuss.
 
-But be warned - this is a small cathedral and not a "big gun", so the cafe and gift shop have hours to suit - don't get caught out!!
+Be warned - this is a small cathedral and not a "big gun" so the cafe and gift shop have hours to suit - don't get caught out like we did!!
 
 Trivia
 ~~~~~~
 
-This is the church from the 1961 film The Omen - yes! it's true.
-Designed by an Englishman: Sir Edward Brantwood Maufe
-Joint first youngest diocese
-Youngest cathedral, consecrated May 1961
-Following WW2, building resumed on a budget and locals each gave a brick.
-Mounted on Stag Hill - where kings of England once hunted deer.
-Solid red bricks taken from the clay hill where it stands
-Best o2 signal in the country - they pay good money to have a transmitter on the church spire!
-The fewest stained glass windows in fitting with the modernist architecture
-Royality that own bricks: .. . .. .
-Gift shop does not sell tea towels
-1500 hand made "kneelers"
-Guildford is a town and not a city - well done Guildford
-There is a 12th century synagougue (now closed) on the nearby high street 
+| This is the church from the 1961 film The Omen - yes! That's true.
+| Designed by the Englishman Sir Edward Brantwood Maufe
+| Joint first youngest diocese
+| Youngest cathedral, consecrated May 1961. A mere baby.
+| Following WW2 building resumed on a budget and locals each gave a brick.
+| Mounted on Stag Hill where kings of England once hunted deer.
+| Solid red bricks taken from the clay hill where it stands
+| Best o2 signal in the country - they pay good money to have a transmitter integrated into the church spire!
+| Best cathedral website
+| The fewest stained glass windows (in fitting with the modernist architecture)
+| Royality that own bricks: .. . .. .
+| Gift shop does not sell tea towels
+| 1500 hand made "kneelers"
+| Guildford is a town and not a city - well done Guildford
+| There is a 12th century synagougue (now closed) on the nearby high street 
 
 Treasures
 ~~~~~~~~~
 
-Has a whopping 12 bells.
-Bricks with Royal signatures
-Rotating display of treasures from churches in the diocese
+| Has a whopping 12 bells.
+| Bricks with Royal signatures
+| With no Treasury Guildford rotates treasures from churches in the diocese
 
 Dead People
 ~~~~~~~~~~~
 
-No.
+| Not yet. Waiting for the likes of ??? to move on.
 
 Architecture
 ~~~~~~~~~~~~
 
-Modern. Really different to any other cathedral.
-Clay bricks made from the hill that it rests on.
+| Modern. Really different to any other cathedral.
+| Clay bricks made from the hill that it rests on.
 
 Final Score
 -----------
 
-Congratulations Guildford, you are awarded XX points!
+Congratulations Guildford, you are awarded ?? points!

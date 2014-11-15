@@ -17,15 +17,18 @@ h1 {
   height:40px;
 }
 
+h1,h2,h3,h4 {
+  vertical-align:middle;
+}
+
+
 .article h1 {
   color: #8AA6BC;
   margin-bottom: 40px;
   text-align: center;
 }
 
-header.index h1 {
-  background: url('./img/cathedralcafes.png') no-repeat;
-}
+
 
 p {
   font-size: 16px;
@@ -33,6 +36,14 @@ p {
   font-family: monospace;
 }
 
+
+.strong {
+  font-weight: bold;
+}
+
+.emphasis {
+  font-style: italic;
+}
 
 /* navbar */
 .navbar {
@@ -79,18 +90,22 @@ p {
    -webkit-transition: all .6s ease-in-out;
 }
 
-header.index {
-  height: 361px;
-  background: url('./img/stpauls-sunbeam.jpg') no-repeat top center;
-}
-
 header h1 {
   display: block;
   margin: 10px 0 10px 0;
 }
 
+header.index h1 {
+  background: url('./img/cathedralcafes.png') no-repeat;
+}
+
+header.index {
+  height: 361px;
+  background: url('./img/stpauls-sunbeam.jpg') no-repeat top center;
+}
+
 header h3 {
-  font-family: 'Kreon', serif;
+  font-family: monospace;
   background: #ffcc33;
   padding:10px;
   border-radius:3px;
@@ -204,12 +219,6 @@ header .container {
   color:#efefef;
 }
 
-h1,h2,h3,h4 {
-  font-family: 'Kreon', serif;
-  vertical-align:middle;
-}
-
-
 
 #footer > .container {
   
@@ -301,11 +310,19 @@ ul.thumbnails li a {
 #scoreboard h2 {
   display: block;
   color: #428bca;
-  font-family: 'Kreon', serif;
   font-size: 82px;
   line-height: 84px;
   text-align: left;
 }
+
+#scoreboard ol {
+  display: block;
+  color: #428bca;
+  font-size: 22px;
+  line-height: 24px;
+  text-align: left;
+}
+
 
 
 /* crtiique/scoring */
@@ -389,7 +406,6 @@ ul.thumbnails li a {
 .postindex article header h2 a {
   display: block;
   color: #fff000;
-  font-family: 'Kreon', serif;
   font-size: 82px;
   line-height: 84px;
   text-align: left;

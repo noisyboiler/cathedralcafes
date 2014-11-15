@@ -24,11 +24,9 @@ Exeter
 
 	<div class="teaser">
 
-	This was a day out that took all the Cathedral Cafe adventurers a little by surprise. Apprehensive of the long 8am train journey from London but when greeted by glorious sunshine and a truly magnificent church on a delightful village green, we immediately banished the journey to the back of our minds.
+	<p>This was a day out that took all the Cathedral Cafe adventurers a little by surprise. Apprehensive of the long 8am train journey from London but when greeted by glorious sunshine and a truly magnificent church on a delightful village green, we immediately banished the journey to the back of our minds. Stand-out feature: The Cafe! With it's vaulted roof, stained glass windows, immaculate garden, great food, tea and service.</p>
 
-	Stand-out feature: The Cafe! With it's vaulted roof, stained glass windows, immaculate garden, great food, tea and service. But don't spend your entire visit drinking the tea here — on a nice day ensure you leave time to soak up the atmosphere and the hustle and bustle on the green.
-
-	Must-Dos: Check out the twin towers, find the Hickery Dickery clock, eat cake.
+	<p><span class="strong">Must-Dos:</span> <i>Check out the twin towers, find the Hickery Dickery clock, drink tea.</i></p>
 
 .. raw:: html
 
@@ -56,34 +54,31 @@ This cafe served Doom Bar straight from the barrel — heavenly. Also a cracking
 Trivia
 ~~~~~~
 
-History of maurauding Norsemen.
-Hickery Dickery Dock nursery rhyme
-Bombed by the Nazis and depicted in a colouful window
+| History of maurauding Norsemen.
+| Hickery Dickery Dock nursery rhyme
+| Bombed by the Nazis and depicted in a colouful window
 
 Treasures
 ~~~~~~~~~
 
-Astronomical clock
-Impressive organ
-Captain Scott\'s Sledging Flag
-Bosses
-30 Misericords',
-Bishop\'s Seat - the largest piece of wooden furniture in Britain
-
+| Astronomical clock
+| Impressive organ
+| Captain Scott\'s Sledging Flag
+| Bosses
+| 30 Misericords',
+| Bishop\'s Seat - the largest piece of wooden furniture in Britain
 
 Dead People
 ~~~~~~~~~~~
 
-The British General who imaginatively canme up with the idea of a concentration camp.
-General John Simcoe - He founded Toronto - although he christened it York.
-
+| The British General who imaginatively canme up with the idea of a concentration camp.
+| General John Simcoe - He founded Toronto - although he christened it York.
 
 Architecture
 ~~~~~~~~~~~~
 
-Longest uninterrupted vaulted ceiling in the whole world
-The ONLY cathedral with two squres towers
-
+| Longest uninterrupted vaulted ceiling in the whole world
+| The ONLY cathedral with two squres towers
 
 Final Score
 -----------

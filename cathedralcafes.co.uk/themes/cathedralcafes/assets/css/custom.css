@@ -412,16 +412,38 @@ ul.thumbnails li a {
 }
 
 .postindex article header.lincoln {
-  background: url('./img/lincoln-header-bg.jpg') no-repeat left top; 
+  background: url('./img/lincoln-masthead.jpg') no-repeat left top; 
+  height: 445px;
 }
 
 .postindex article header.rochester {
-  background: url('./img/rochester-header-bg.jpg') no-repeat left top; 
+  background: url('./img/rochester-masthead.jpg') no-repeat left top;
+  height: 425px; 
 }
 
 .postindex article header.exeter {
-  background: url('./img/exeter-header-bg.jpg') no-repeat left top; 
-  height: 180px;
+  background: url('./img/exeter-masthead.jpg') no-repeat left top; 
+  height: 582px;
+}
+
+.postindex article header.guildford {
+  background: url('./img/guildford-masthead.jpg') no-repeat left top; 
+  height: 304px;
+}
+
+.postindex article header.southwark {
+  background: url('./img/southwark-masthead.jpg') no-repeat left top; 
+  height: 442px;
+}
+
+.postindex article header.norwich {
+  background: url('./img/norwich-masthead.jpg') no-repeat left top; 
+  height: 506px;
+}
+
+.postindex article header.chichester {
+  background: url('./img/chichester-masthead.jpg') no-repeat left top; 
+  height: 425px;
 }
 
 article header {

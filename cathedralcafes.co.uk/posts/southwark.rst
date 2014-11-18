@@ -37,7 +37,7 @@ Southwark
 Clositers Cafe
 ~~~~~~~~~~~~~~
 
-Inside the noisy heart of London but away from the trendies of Borough market, the tourist mayhem and the suits of the city, touch-down in this modern cafe with quaint touches such as hand painted tea pots and mediocre paintings on sale for over a 1000 pounds. We had three home cooked cakes here, the best of which was .... The tea was Sneaks favourite out of the 6 now drunk.
+Inside the noisy heart of London but away from the trendies of Borough market, tourist mayhem and the suits of the city, touch-down in this modern cafe with quaint touches such as hand painted tea pots and mediocre paintings on sale for over a 1000 pounds. We had three home cooked cakes here, the best of which was a delicious honey and walnut. The tea was Sneaks favourite out of the 6 now drunk.
 
 Trivia
 ~~~~~~
@@ -62,7 +62,7 @@ Trivia
 Treasures
 ~~~~~~~~~
 
-| Incredible gargolye of a demon eating someone. Incredible! (TODO: check this description)
+| Incredible gargolye of a demon eating an unfortunate young lady.
 | large stained glass window dedicated to William Shakespeare
 | alabaster statue representing WS reclining
 | Monuments to: Nelson Mandela, Desmond Tutu, Isabella Gilmore and the victims of the Marchioness disaster

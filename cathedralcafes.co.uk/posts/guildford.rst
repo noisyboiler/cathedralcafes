@@ -27,7 +27,7 @@ Guildford
 
 	<p>England's most modern cathedral in a youthful 1927 diocese. Along with the Queen, one of team CC's grandmother owns a brick here.<p>
 
-	<p><span class="strong">Must-Dos:</span>  <i>Re-enact scenes from The Omen, check out the modern architecture and views, drink tea.</i></p>
+	<p><span class="strong">Must-Dos:</span>  <i>Re-enact scenes from The Omen, find which of the royal family owns bricks here, drink tea.</i></p>
 
 .. raw:: html
 
@@ -66,7 +66,7 @@ Trivia
 | Best o2 signal in the country - they pay good money to have a transmitter integrated into the church spire!
 | Best cathedral website
 | The fewest stained glass windows (in fitting with the modernist architecture)
-| Royality that own bricks: .. . .. .
+| Bricks owned by multiple royals
 | Gift shop does not sell tea towels
 | 1500 hand made "kneelers"
 | Guildford is a town and not a city - well done Guildford
@@ -82,7 +82,7 @@ Treasures
 Dead People
 ~~~~~~~~~~~
 
-| Not yet. Waiting for the likes of ??? to move on.
+| Not yet, but Guildford has not had much time to collect dead bodies.
 
 Architecture
 ~~~~~~~~~~~~

@@ -30,7 +30,7 @@ h1,h2,h3,h4 {
 
 
 
-p {
+p, .line {
   font-size: 16px;
   line-height: 20px;
   font-family: monospace;
@@ -43,6 +43,11 @@ p {
 
 .emphasis {
   font-style: italic;
+}
+
+.published {
+  color: #FFF000;
+  margin: 5px;
 }
 
 /* navbar */

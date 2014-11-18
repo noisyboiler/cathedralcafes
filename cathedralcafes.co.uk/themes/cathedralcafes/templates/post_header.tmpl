@@ -4,7 +4,7 @@
 
 {% macro html_title() %}
 {% if title and not post.meta('hidetitle') %}
-    <h1 class="p-name entry-title" itemprop="headline name"><a href="{{ post.permalink() }}" class="u-url">{{ title|e }}</a></h1>
+    <h2 class="p-name entry-title" itemprop="headline name"><a href="{{ post.permalink() }}" class="u-url">{{ title|e }}</a></h2>
 {% endif %}
 {% endmacro %}
 
@@ -28,11 +28,5 @@
 {% endmacro %}
 
 {% macro html_post_header() %}
-    <header>
-        {{ html_title() }}
-        <div class="metadata">
-            <p class="dateline"><a href="{{ post.permalink() }}" rel="bookmark"><time class="published dt-published" datetime="{{ post.date.isoformat() }}" itemprop="datePublished" title="{{ messages("Publication date") }}">{{ post.formatted_date(date_format) }}</time></a></p>
-        </div>
-        {{ html_translations(post) }}
-    </header>
+
 {% endmacro %}

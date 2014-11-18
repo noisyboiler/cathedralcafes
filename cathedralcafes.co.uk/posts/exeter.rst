@@ -24,7 +24,7 @@ Exeter
 
 	<div class="teaser">
 
-	<p>This was a day out that took all the Cathedral Cafe adventurers a little by surprise. Apprehensive of the long 8am train journey from London but when greeted by glorious sunshine and a truly magnificent church on a delightful village green, we immediately banished the journey to the back of our minds. Stand-out feature: The Cafe! With it's vaulted roof, stained glass windows, immaculate garden, great food, tea and service.</p>
+	<p>Apprehensive of the long 8am train journey from London the CC adventurers were eventually greeted by glorious sunshine and a truly magnificent church on a delightful village green. Stand-out feature: The Cafe! With it's vaulted roof, stained glass windows, immaculate garden, great food, tea and service.</p>
 
 	<p><span class="strong">Must-Dos:</span> <i>Check out the twin towers, find the Hickery Dickery clock, drink tea.</i></p>
 

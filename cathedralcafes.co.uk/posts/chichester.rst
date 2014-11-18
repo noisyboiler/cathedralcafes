@@ -2,7 +2,7 @@
 .. location: Chichester
 .. church_name: 
 .. slug: chichester
-.. date: 16:00:00 UTC+0:00
+.. date: 2013-09-20 16:00:00 UTC+0:00
 .. tags: cathedral, chichester, tea
 .. link: 
 .. description: The official Cathedral Cafe visit to Chichester cathedral
@@ -26,7 +26,7 @@ Chichester
 
 	<p>Chichester, "the most typical English Cathedral", was a well equipped cafe and accommodates one of our most famous composers. Found on the river Lavant, just beneath the South Downs and opposite The House of Frasier, we have an 11th century church with Roman and Anglo-Saxon *and* Norman footnotes.</p>
 
-	<p><span class="strong"><i>Must-Dos:</span>  Holst, falcans, drink tea.</i></p>
+	<p><span class="strong"><i>Must-Dos:</span>  Holst, falcons, drink tea.</i></p>
 
 .. raw:: html
 

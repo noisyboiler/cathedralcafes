@@ -24,7 +24,7 @@ Southwark
 
 	<div class="teaser">
 
-	<p>Occasionally a city has more than one CofE cathedral and it shouldn't come as much of a surprise to you that London is one of them. As a church this one is much older (pre-conquest) than Wren's little design and much more like a comfy armchair - we loved this little church. This choice for two 17th century bards is a tiny and condessed church where the photography tax is well worthwile.</p>
+	<p>Occasionally a city has more than one CofE cathedral and it shouldn't come as much of a surprise to you that London is one of them. As a church this one is much older (pre-conquest) than Wren's little design and much more like a comfy armchair - we loved this little church. This choice for two 17th century bards is a tiny and condensed church where the photography tax is well worthwile.</p>
 
 	<p><span class="strong">Must-Dos:</span> <i>10th century stones, memorial to W. Shakespeare, drink tea.</i></p>
 

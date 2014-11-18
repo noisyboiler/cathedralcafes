@@ -2,7 +2,7 @@
 .. location: Norwich
 .. church_name: The Cathedral Church of the Holy and Undivided Trinity
 .. slug: norwich
-.. date:  16:00:00 UTC+0:00
+.. date: 2013-04-12 16:00:00 UTC+0:00
 .. tags: cathedral, norwich, tea
 .. description: The official Cathedral Cafe visit to Norwich cathedral
 .. type: text
@@ -23,7 +23,7 @@ Norwich
 
 	<div class="teaser">
 
-	<p>A relatively quick Norman build, 1096 - 1145, the church required the demolition of the towns marketplace, two churches and a few houses, this is England's most complete Norman cathedral.</p>
+	<p>A relatively quick Norman build, 1096 - 1145, the church required the demolition of the towns marketplace, two churches and a few houses, however, this is England's most complete Norman cathedral.</p>
 
 	<p><span class="strong">Must-Dos:</span> <i>find original wall paintings, decipher some bosses, drink tea.</i></p>
 

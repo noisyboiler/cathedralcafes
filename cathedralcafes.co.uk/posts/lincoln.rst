@@ -23,7 +23,7 @@ Lincoln
 
 	<div class="teaser">
 
-	<p>An architectural treat found high up on a mound and with 1000 years of history this building stands out amongst our Cathedrals. Also features Imps.</p>
+	<p>An architectural treat with 1000 years of history - this building stands out amongst our Cathedrals. Also features Imps.</p>
 
 	<p><span class="strong">Must-Dos:</span> <i>Roof tour, find some Imps, drink tea.</i></p>
 

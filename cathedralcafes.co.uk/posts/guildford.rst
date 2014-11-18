@@ -25,9 +25,9 @@ Guildford
 
 	<div class="teaser">
 
-	<p>England's most modern cathedral, in a youthful 1927 diocese. Along with the Queen, one of team CC's grandmother owns a brick here.<p>
+	<p>England's most modern cathedral in a youthful 1927 diocese. Along with the Queen, one of team CC's grandmother owns a brick here.<p>
 
-	<p><span class="strong">Must-Dos:</span>  <i>Re-enact scenes from The Omen, explore the modern architecture and views, drink tea.</i></p>
+	<p><span class="strong">Must-Dos:</span>  <i>Re-enact scenes from The Omen, check out the modern architecture and views, drink tea.</i></p>
 
 .. raw:: html
 

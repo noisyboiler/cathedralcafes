@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This file contains styles referenced by other KML files in this project.
+-->  
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document id="globalStyles">
+  <Style id="Bristol">
+    <IconStyle>
+      <color>ffff0000</color>
+      <Icon>
+        <href>/site_media/user/images/icons/bristol_icon.png</href>
+      </Icon>  
+    </IconStyle>
+  </Style>  
+    <Style id="Salisbury">
+    <IconStyle>
+      <color>ffff0000</color>
+      <Icon>
+        <href>/site_media/user/images/icons/bristol_icon.png</href>
+      </Icon>  
+    </IconStyle>
+  </Style>  
+    <Style id="Winchester">
+    <IconStyle>
+      <color>ffff0000</color>
+      <Icon>
+        <href>/site_media/user/images/icons/bristol_icon.png</href>
+      </Icon>  
+    </IconStyle>
+  </Style>  
+    <Style id="Chichester">
+    <IconStyle>
+      <color>ffff0000</color>
+      <Icon>
+        <href>/site_media/user/images/icons/bristol_icon.png</href>
+      </Icon>  
+    </IconStyle>
+  </Style>  
+  
+  
+  </Document>
+</kml>

@@ -476,3 +476,136 @@ article header {
   margin: 0px;
 }
 
+
+
+
+/* map */
+
+
+
+.map-tooltip { 
+  width: 80px;
+  height:20px;
+  min-height: 20px; 
+  height:auto;
+  color: white;
+  *color: black; /* shows in IE7 and below */
+  _color: black; /*  shows in IE6 and below */ 
+  padding: 10px; 
+  margin:0px; 
+}
+
+.map-tooltip, .button { -moz-border-radius:5px; -webkit-border-radius:5px; }
+.map-tooltip { box-shadow:rgba(0,0,0,0.9) 0 0 10px; -webkit-box-shadow:rgba(0,0,0,0.9) 0 0 10px; -moz-box-shadow:rgba(0,0,0,0.9) 0 0 10px; }
+.map-tooltip { background: rgba(10, 10, 10, 0.6); }
+
+
+.mcontainer {
+    height: 710px;
+    overflow: hidden;
+}
+
+#map {
+    z-index: 0;
+    display: block;
+    position: relative;
+    float: left;
+    color: white;
+    width: 100%;
+    margin-top:0px;
+    margin-bottom: -20px;
+    height: 740px;
+    overflow: hidden; 
+}
+
+
+#map_canvas {
+    z-index: -10;
+    display: block;
+    position: absolute;
+    width: 770px;
+    height: 740px;
+    background: transparent !important;
+    overflow: hidden; 
+}
+
+
+#key {
+    z-index: 20;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    float: right;
+    width: 240px;
+    height: 740px;
+    min-height: 740px;
+    background: transparent url('./img/light-blue-transparent.png') 0 0 repeat;
+}
+
+#key ul {
+    display: block;
+    clear: both;
+    float: left;
+    width: 240px;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+
+#key ul li {
+    display: block;
+    clear: both;
+    float: left;
+    width: 240px;
+    padding-left: 20px;
+}
+
+#key ul li img {
+  display: block;
+  float: left;
+  margin: 5px 5px;
+}
+
+#key ul li span {
+    display:block;
+    float:left;
+    margin:7px 0 0 0;
+    padding-left: 10px;
+}
+
+
+
+
+div.infowindow {
+  padding:0;
+  margin:0;
+  max-width:180px;
+}
+
+div.infowindow h3 {
+  padding:0;
+  margin:0 0 5px 0;
+  color:black;
+  font-size:14px;
+  line-height:14px;
+}
+
+div.infowindow p, div.infowindow a {
+  padding:0;
+  margin:0;
+  color:black;
+  font-size:12px;
+  line-height:14px;
+}
+
+
+#pin {
+    z-index:40;
+    position:absolute;
+    width:79px;
+    height:87px;
+    left:100px;
+    top:40px;
+    /*background:transparent url(/static/images/backgrounds/map.jpg) 0 0 repeat-x;*/
+}
+

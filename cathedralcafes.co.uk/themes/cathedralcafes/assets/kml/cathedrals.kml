@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/{% block kml_version %}2.2{% endblock %}">
+<Document>
+
+    <Style id="rochester">
+      <IconStyle>
+        <Icon>
+            {% if place.visited %}
+                <href>/static/images/icons/cathedral_visited.png</href>
+            {% else %}
+            {% if place.next %}
+                <href>/static/images/icons/cathedral_next.png</href>
+            {% else %}
+                <href>/static/images/icons/cathedral_ready.png</href>
+            {% endif %}
+            {% endif %}
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Placemark>
+        <id>{{place.id}}</id>
+        <name>{{place.city}}</name>
+        <tweet>{{place.tweet}}</tweet>
+        <data>{{place.data}}</data>
+        <url>{{place.get_absolute_url}}</url>
+        <styleUrl>#{{place.city}}</styleUrl>
+        {{ place.kml|safe }}
+    </Placemark>
+
+</Document>
+</kml>
+
+

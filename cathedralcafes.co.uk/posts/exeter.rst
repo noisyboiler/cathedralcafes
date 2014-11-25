@@ -9,11 +9,11 @@
 .. type: text
 .. class: exeter
 .. summary: Exeter cathedral has the cafe that other churches dream of! Some surprising treasures, classic architecture, a few bodies of note and some war stories to tell.
-.. architecture: 16
-.. dead_people: 2
-.. cafe: 18
-.. treasures: 8
-.. trivia: 8
+.. architecture: 4th
+.. dead_people: 4th
+.. cafe: 1st!!!
+.. treasures: 5th
+.. trivia: 3rd!
 
 
 ================
@@ -26,7 +26,7 @@ Exeter
 
 	<p>Apprehensive of the long 8am train journey from London the CC adventurers were eventually greeted by glorious sunshine and a truly magnificent church on a delightful village green. Stand-out feature: The Cafe! With it's vaulted roof, stained glass windows, immaculate garden, great food, tea and service.</p>
 
-	<p><span class="strong">Must-Dos:</span> <i>Check out the twin towers, find the Hickery Dickery clock, drink tea.</i></p>
+	<p><span class="strong">Must-Dos:</span> <i>Twin towers, Hickery Dickery clock, drink tea.</i></p>
 
 .. raw:: html
 
@@ -54,31 +54,31 @@ This cafe served Doom Bar straight from the barrel — heavenly. Also a cracking
 Trivia
 ~~~~~~
 
-| History of maurauding Norsemen.
-| Hickery Dickery Dock nursery rhyme
-| Bombed by the Nazis and depicted in a colouful window
+- History of maurauding Norsemen.
+- Hickery Dickery Dock nursery rhyme
+- Bombed by the Nazis and depicted in a colouful window
 
 Treasures
 ~~~~~~~~~
 
-| Astronomical clock
-| Impressive organ
-| Captain Scott\'s Sledging Flag
-| Bosses
-| 30 Misericords',
-| Bishop\'s Seat - the largest piece of wooden furniture in Britain
+- Astronomical clock
+- Impressive organ
+- Captain Scott\'s Sledging Flag
+- Bosses
+- 30 Misericords',
+- Bishop\'s Seat - the largest piece of wooden furniture in Britain
 
 Dead People
 ~~~~~~~~~~~
 
-| The British General who imaginatively canme up with the idea of a concentration camp.
-| General John Simcoe - He founded Toronto - although he christened it York.
+- The British General who imaginatively canme up with the idea of a concentration camp.
+- General John Simcoe - He founded Toronto - although he christened it York.
 
 Architecture
 ~~~~~~~~~~~~
 
-| Longest uninterrupted vaulted ceiling in the whole world
-| The ONLY cathedral with two squres towers
+- Longest uninterrupted vaulted ceiling in the whole world
+- The ONLY cathedral with two squres towers
 
 Final Score
 -----------

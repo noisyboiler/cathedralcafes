@@ -1,6 +1,6 @@
 .. title: The Chichester Adventure
 .. location: Chichester
-.. church_name: 
+.. church_name: The Cathedral Church of the Holy Trinity
 .. slug: chichester
 .. date: 2013-09-20 16:00:00 UTC+0:00
 .. tags: cathedral, chichester, tea
@@ -9,11 +9,11 @@
 .. type: text
 .. class: chichester
 .. summary: The most typical of English cathedrals; soundtrack: The Planets
-.. architecture: 
-.. dead_people:
-.. cafe: 
-.. treasures:
-.. trivia:
+.. architecture: 6th
+.. dead_people: 1st!!!
+.. cafe: 3rd!
+.. treasures: 2nd!!
+.. trivia: last
 
 
 ================
@@ -46,37 +46,37 @@ All round very professional, modern cafe. Nice spacious garden; neat and tidy, c
 Trivia
 ~~~~~~
 
-| The building has a history peppered by disasters such as the collapse of the steeple.
-| A family of peregrine falcons nest in the roof and feature on the tea towels sold in the little shop.
-| "An Arundel Tomb", a poem by Philip Larkin, describes a medieval tomb which is found here.
-| One of two cathedrals whose steeple is visible from the sea
-| Can donate money using credit card machines on the spot
-| embraces local cultural events
+- The building has a history peppered by disasters such as the collapse of the steeple.
+- A family of peregrine falcons nest in the roof and feature on the tea towels sold in the little shop.
+- "An Arundel Tomb", a poem by Philip Larkin, describes a medieval tomb which is found here.
+- One of two cathedrals whose steeple is visible from the sea
+- Can donate money using credit card machines on the spot
+- embraces local cultural events
 
 Treasures
 ~~~~~~~~~
 
-| Distinctive and rare Norman and Gothic sculptures such as the "Arundel tomb", 
-| Fragment of 2nd century Roman Mosaic
-| The usual militaria that clutters English cathedrals 
-| Contemporary Art
-| The Treasury featuring silver goblets etc. We weren't aloud in.
+- Distinctive and rare Norman and Gothic sculptures such as the "Arundel tomb", 
+- Fragment of 2nd century Roman Mosaic
+- The usual militaria that clutters English cathedrals 
+- Contemporary Art
+- The Treasury featuring silver goblets etc. We weren't aloud in.
 
 Dead People
 ~~~~~~~~~~~
 
-| Gustav Theodore Holst, renouned throughout the planets
-| Richard FitzAlan, 10th Earl of Arundel
+- Gustav Theodore Holst, renouned throughout the planets
+- Richard FitzAlan, 10th Earl of Arundel
 
 Architecture
 ~~~~~~~~~~~~
 
-| Founded in 1075, Chichester displays both Norman and Gothic architecture
-| The only cathedral with a free-standing bell tower
-| The only cathedral with "basilica-esk" double-aisles
-| Striking green copper roof
-| Convenient bike rack
-| Detailed stone carvings, for example, the bespectacled lawyer
+- Founded in 1075, Chichester displays both Norman and Gothic architecture
+- The only cathedral with a free-standing bell tower
+- The only cathedral with "basilica-esk" double-aisles
+- Striking green copper roof
+- Convenient bike rack
+- Detailed stone carvings, for example, the bespectacled lawyer
 
 Final Score
 -----------

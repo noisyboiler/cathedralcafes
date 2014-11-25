@@ -8,7 +8,12 @@
 .. description: The official Cathedral Cafe visit to Rochester cathedral
 .. type: text
 .. class: rochester
-.. summary: Rochester Cathedral is a fine Norman,has a famous mouse,has a really old clock and has roots with one of our most famous writers.
+.. summary: Rochester Cathedral is a fine Norman, has a famous mouse, has a really old clock and has roots with one of our most famous writers.
+.. architecture: 3rd! 
+.. dead_people: 5th
+.. cafe: 4th
+.. treasures: 2nd!!
+.. trivia: 6th
 
 ================
 Rochester
@@ -52,35 +57,35 @@ We visited on a very busy day (it being the December Dickensian Festival) and so
 Trivia
 ~~~~~~
 
-| In 1130 a fire destroyed Rochester pretty much entirely. What was salvaged was probably lost in subsequent blazes in 1137 and 1179. Fire safety record: appauling.
-| Unruly Monks bickered and feuded with the Canterbury monks, warred against the locals of Rochester, and fought for every pig and goose in the annual xenium feast.
-| Rochester's foundations are the second oldest in the country
-| The Bishop's Xenium - the Bishop should take the Xenium on the feast of St. Andrew wherever he might be (but what is it???)
-| It is said the towns of East Kent held out against William the Conqueror longer than their neighbours - the "Men of Kent / Kentish Men" thing.
+- In 1130 a fire destroyed Rochester pretty much entirely. What was salvaged was probably lost in subsequent blazes in 1137 and 1179. Fire safety record: appauling.
+- Unruly Monks bickered and feuded with the Canterbury monks, warred against the locals of Rochester, and fought for every pig and goose in the annual xenium feast.
+- Rochester's foundations are the second oldest in the country
+- The Bishop's Xenium - the Bishop should take the Xenium on the feast of St. Andrew wherever he might be (but what is it???)
+- It is said the towns of East Kent held out against William the Conqueror longer than their neighbours - the "Men of Kent / Kentish Men" thing.
 
 Treasures
 ~~~~~~~~~
 
-| Wheel of Fortune painting, bearing wounds from the English civil war
-| 2004 Fresco, quite popular it is, or maybe it's the gift shop that is.
-| Mosaic memorial to the Royal Engineers.
-| The Kent Bell; a shiny bell!
-| Charles Dickens' Memorial
-| It is said the towns of East Kent held out against William the Conqueror longer than their neighbours;
+- Wheel of Fortune painting, bearing wounds from the English civil war
+- 2004 Fresco, quite popular it is, or maybe it's the gift shop that is.
+- Mosaic memorial to the Royal Engineers.
+- The Kent Bell; a shiny bell!
+- Charles Dickens' Memorial
+- It is said the towns of East Kent held out against William the Conqueror longer than their neighbours;
 
 Dead People
 ~~~~~~~~~~~
 
-| William of Perth, a Scottish corpse with healin powers
-| Charles Dickens’ ghost - Dickens was actually deemed too famous to rest by the Medway and his body was carted off to  Westminster Abbey.
+- William of Perth, a Scottish corpse with healin powers
+- Charles Dickens’ ghost - Dickens was actually deemed too famous to rest by the Medway and his body was carted off to  Westminster Abbey.
 
 Architecture
 ~~~~~~~~~~~~
 
-| “romanesque” or “pre-Gothic” European architecture
-| Round arches
-| French monk and architect Gundulf, was the builder of much of the Tower of London
-| The Green Men carvings
+- “romanesque” or “pre-Gothic” European architecture
+- Round arches
+- French monk and architect Gundulf, was the builder of much of the Tower of London
+- The Green Men carvings
 
 Final Score
 -----------

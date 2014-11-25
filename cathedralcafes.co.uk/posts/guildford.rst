@@ -8,11 +8,11 @@
 .. type: text
 .. class: guildford
 .. summary: Architecturally and technologically England's most modern cathedral. 
-.. architecture: 
-.. dead_people:
-.. cafe: 
-.. treasures:
-.. trivia:
+.. architecture: 5th
+.. dead_people: last
+.. cafe: 6th
+.. treasures: last
+.. trivia: 4th
 
 
 .. _Guildford Refectory: http://guildfordrefectory.co.uk/
@@ -56,39 +56,40 @@ Be warned - this is a small cathedral and not a "big gun" so the cafe and gift s
 Trivia
 ~~~~~~
 
-| This is the church from the 1961 film The Omen - yes! That's true.
-| Designed by the Englishman Sir Edward Brantwood Maufe
-| Joint first youngest diocese
-| Youngest cathedral, consecrated May 1961. A mere baby.
-| Following WW2 building resumed on a budget and locals each gave a brick.
-| Mounted on Stag Hill where kings of England once hunted deer.
-| Solid red bricks taken from the clay hill where it stands
-| Best o2 signal in the country - they pay good money to have a transmitter integrated into the church spire!
-| Best cathedral website
-| The fewest stained glass windows (in fitting with the modernist architecture)
-| Bricks owned by multiple royals
-| Gift shop does not sell tea towels
-| 1500 hand made "kneelers"
-| Guildford is a town and not a city - well done Guildford
-| There is a 12th century synagougue (now closed) on the nearby high street 
+- This is the church from the 1961 film The Omen - yes! That's true.
+- Designed by the Englishman Sir Edward Brantwood Maufe
+- Joint first youngest diocese
+- Youngest cathedral, consecrated May 1961. A mere baby.
+- Following WW2 building resumed on a budget and locals each gave a brick.
+- Mounted on Stag Hill where kings of England once hunted deer.
+- Solid red bricks taken from the clay hill where it stands
+- Best o2 signal in the country - they pay good money to have a transmitter integrated into the church spire!
+- Best cathedral website
+- The fewest stained glass windows (in fitting with the modernist architecture)
+- Bricks owned by multiple royals
+- Gift shop does not sell tea towels
+- 1500 hand made "kneelers"
+- Guildford is a town and not a city - well done Guildford
+- There is a 12th century synagougue (now closed) on the nearby high street
+- Asbestos roof 
 
 Treasures
 ~~~~~~~~~
 
-| Has a whopping 12 bells.
-| Bricks with Royal signatures
-| With no Treasury Guildford rotates treasures from churches in the diocese
+- Has a whopping 12 bells.
+- Bricks with Royal signatures
+- With no Treasury Guildford rotates treasures from churches in the diocese
 
 Dead People
 ~~~~~~~~~~~
 
-| Not yet, but Guildford has not had much time to collect dead bodies.
+- Not yet, but Guildford has not had much time to collect dead bodies.
 
 Architecture
 ~~~~~~~~~~~~
 
-| Modern. Really different to any other cathedral.
-| Clay bricks made from the hill that it rests on.
+- Modern. Really different to any other cathedral.
+- Clay bricks made from the hill that it rests on.
 
 Final Score
 -----------

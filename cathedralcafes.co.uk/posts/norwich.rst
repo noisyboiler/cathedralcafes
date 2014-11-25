@@ -8,11 +8,11 @@
 .. type: text
 .. class: norwich
 .. summary: A relatively quick Norman build, 1096 - 1145, the church required the demolition of the towns marketplace, two churches and a few houses, this is England's most complete Norman cathedral.
-.. architecture: 
-.. dead_people:
-.. cafe: 
-.. treasures:
-.. trivia:
+.. architecture: 2nd!!
+.. dead_people: 2nd!!
+.. cafe: 2nd!!
+.. treasures: 3rd!
+.. trivia: 2nd!!
 
 
 =======
@@ -51,39 +51,39 @@ An award winning cafe: Winner, National Wood Awards 2004. A stand-out building i
 Trivia
 ~~~~~~
 
-| The only English city to be excommunicated by the Pope following the riot of 1272.
-| Largest collection of bosses in Christendom. 
-| Has it's own maze. 
-| Has some Perriguines and a webcam
-| Pink cathedral wall stones following a lightening strike
-| One of the 3 cathedrals withoug Bells! 
-| bullet holes to be found in walls (one with bullet still) from an angry Puritan mob.
-| The cathedral was used as a location for the 2013 film Jack the Giant Slayer (your guess is as good as ours)
-| The earliest record of Blood Libel
-| There is giant unexploded German bomb in the close.
+- The only English city to be excommunicated by the Pope following the riot of 1272.
+- Largest collection of bosses in Christendom. 
+- Has it's own maze. 
+- Has some Perriguines and a webcam
+- Pink cathedral wall stones following a lightening strike
+- One of the 3 cathedrals withoug Bells! 
+- bullet holes to be found in walls (one with bullet still) from an angry Puritan mob.
+- The cathedral was used as a location for the 2013 film Jack the Giant Slayer (your guess is as good as ours)
+- The earliest record of Blood Libel
+- There is giant unexploded German bomb in the close.
 
 Treasures
 ~~~~~~~~~
 
-| Original wall painting carelessly overlooked by the raucous reformers
-| 61 Misericords (mercy seats)
-| The largest collection of bosses in Christendom (396) which tell stories in medievak art!!
+- Original wall painting carelessly overlooked by the raucous reformers
+- 61 Misericords (mercy seats)
+- The largest collection of bosses in Christendom (396) which tell stories in medievak art!!
 
 Dead People
 ~~~~~~~~~~~
 
-| St William (of Norwich), Child Martyr (d 1144), bruttally murderd by his uncle.
-| Sir Thomas Erpingham, Knight of the Garter (c. 1355–1428), commander of King Henry V's English and Welsh archers at the Battle of Agincourt
+- St William (of Norwich), Child Martyr (d 1144), bruttally murderd by his uncle.
+- Sir Thomas Erpingham, Knight of the Garter (c. 1355–1428), commander of King Henry V's English and Welsh archers at the Battle of Agincourt
 
 Architecture
 ~~~~~~~~~~~~
 
-| Near-complete, untouched, unspolit Norman church
-| Gothic perpendicular vaulting
-| Second largest cloisters
-| Second largest spire
-| Largest cathedral close in England (not second). Tombland (the original marketplace, church and houses) is basically now the cathedral close/precinct.
-| Only two story Cloister in the CofE
+- Near-complete, untouched, unspolit Norman church
+- Gothic perpendicular vaulting
+- Second largest cloisters
+- Second largest spire
+- Largest cathedral close in England (not second). Tombland (the original marketplace, church and houses) is basically now the cathedral close/precinct.
+- Only two story Cloister in the CofE
 
 Final Score
 -----------

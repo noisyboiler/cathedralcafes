@@ -19,7 +19,7 @@
 {% block content %}
 <div class="container">
 
-    <div class="postindex copy">
+    <div class="postindex copy intro">
         <p class="copy important">Each church is <i>brutally</i> critiqued on fundamental criteria such as their cakes, the quality of their dead people and on the trivia we learn on the day. The result is a compelling <a href="/#scores">league table</a> that is gripping the nation!</p>
         <p class="copy important">So, which church has the "&dagger;-factor"?</p>
     </div>
@@ -185,7 +185,7 @@
             width:700,
             center: new google.maps.LatLng(54.40315470224928, -2.555625),
             mapTypeId: google.maps.MapTypeId.HYBRID,
-            disableDefaultUI: false,
+            disableDefaultUI: true,
             mapTypeControl: false,
             scrollwheel: false,
             navigationControl: false,
@@ -196,7 +196,7 @@
         };
 
         var cathedralsKmlLayer;
-        var kmlUrl = '/assets/kml/';
+        var kmlUrl = './assets/kml/cathedrals.kml';
 
         map = new google.maps.Map(document.getElementById("map_canvas"), mapOpts);
         //  http://code.google.com/p/geoxml3/wiki/ParserReference

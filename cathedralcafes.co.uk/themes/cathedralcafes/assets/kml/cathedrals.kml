@@ -1,34 +1,460 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/{% block kml_version %}2.2{% endblock %}">
+<kml xmlns="http://earth.google.com/kml/2.0">
 <Document>
 
-    <Style id="rochester">
+    <Style id="ready">
       <IconStyle>
         <Icon>
-            {% if place.visited %}
-                <href>/static/images/icons/cathedral_visited.png</href>
-            {% else %}
-            {% if place.next %}
-                <href>/static/images/icons/cathedral_next.png</href>
-            {% else %}
-                <href>/static/images/icons/cathedral_ready.png</href>
-            {% endif %}
-            {% endif %}
+            <href>/assets/img/icons/cathedral_ready.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Style id="next">
+      <IconStyle>
+        <Icon>
+            <href>/assets/img/icons/cathedral_next.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Style id="visited">
+      <IconStyle>
+        <Icon>
+            <href>/assets/img/icons/cathedral_visited.png</href>
         </Icon>
       </IconStyle>
     </Style>
 
     <Placemark>
-        <id>{{place.id}}</id>
-        <name>{{place.city}}</name>
-        <tweet>{{place.tweet}}</tweet>
-        <data>{{place.data}}</data>
-        <url>{{place.get_absolute_url}}</url>
-        <styleUrl>#{{place.city}}</styleUrl>
-        {{ place.kml|safe }}
+        <name>Bath and Wells</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -2.6419115,51.2123949, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Birmingham</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.898662, 52.481348, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Blackburn</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+            -2.481054, 53.747372, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Bradford</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.747636, 53.795458, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Bristol</name>
+        <styleUrl>#next</styleUrl>
+        <Point>
+          <coordinates>
+           -2.600645, 51.451652, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Cantebury</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           1.083055, 51.279674, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Carlisle</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -2.938129, 54.894759, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Chester</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+            -2.891068, 53.191834, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Chelmsford</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           0.472339, 51.735215, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Coventry</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.507118, 52.408310, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Chichester</name>
+        <styleUrl>#visited</styleUrl>
+        <Point>
+          <coordinates>
+           -0.780585, 50.836492, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Derby</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.4756419999999999, 52.9218992999999998, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Durham</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.5596051000000000, 54.7786923000000030, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Ely</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           0.2597859000000000, 52.3994489999999971, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Exeter</name>
+        <styleUrl>#visited</styleUrl>
+        <Point>
+          <coordinates>
+           -3.5336170000000000, 50.7218000000000018, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Gloucester</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -2.2486698999999999, 51.8667425000000009, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Guildford</name>
+        <styleUrl>#visited</styleUrl>
+        <Point>
+          <coordinates>
+           -0.5702912000000000, 51.2364188000000027, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Hereford</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -2.7175467000000002, 52.0559921999999986, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Leicester</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.1295191000000000, 52.6347704000000007, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Lichfield</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.8223586000000001, 52.6835558000000006, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Lincoln</name>
+        <styleUrl>#visited</styleUrl>
+        <Point>
+          <coordinates>
+           -0.4264058000000000, 53.1811650000000000, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Liverpool</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -2.9778383000000002, 53.4107765999999984, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>London</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -0.1262362000000000, 51.5001523999999975, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Manchester</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -2.2343765000000002, 53.4807125000000028, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Newcastle</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.6129165000000001, 54.9778403999999981, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Norwich</name>
+        <styleUrl>#visited</styleUrl>
+        <Point>
+          <coordinates>
+           1.2993494000000001, 52.6281013999999985, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Oxford</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.2558838000000001, 51.7522791999999967, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Peterborough</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -0.2437337000000000, 52.5702460999999985, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Portsmouth</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.0911626999999999, 50.7989136999999999, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Ripon And Leeds</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.5242118000000000, 54.1387805000000029, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Rochester</name>
+        <styleUrl>#visited</styleUrl>
+        <Point>
+          <coordinates>
+           0.5037320000000000, 51.3897894999999991, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>St Albans</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -0.3338920000000000, 51.7515300000000025, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>St Edmundsbury And Ipswich</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           1.1556721999999999, 52.0593085000000002, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Salisbury</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.7976262999999999, 51.0673989000000006, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Sheffield</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.4647953000000000, 53.3830547999999965, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Isle of Man</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -4.5480559999999999, 54.2361069999999970, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Southwark</name>
+        <styleUrl>#visited</styleUrl>
+        <Point>
+          <coordinates>
+           -0.0820877000000000, 51.4834479000000016, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Southwell And Nottingham</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.1491718000000000, 52.9551147000000029, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Truro</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -5.0507023000000002, 50.2629522000000009, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Wakefield</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.4990969999999999, 53.6829650000000029, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Winchester</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.3165036999999999, 51.0629403000000011, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Worcester</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -2.2235320000000001, 52.1920347000000007, 0
+          </coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>York</name>
+        <styleUrl>#ready</styleUrl>
+        <Point>
+          <coordinates>
+           -1.0822855000000000, 53.9577018000000024, 0
+          </coordinates>
+        </Point>
     </Placemark>
 
 </Document>
 </kml>
-
-

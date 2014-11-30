@@ -1,5 +1,30 @@
 @import url(http://fonts.googleapis.com/css?family=Kreon:400,700);
 
+@font-face {
+  font-family: 'ringbearer';
+  src: url('./fonts/ring.ttf'); /* IE9 Compat Modes */
+  src: url('./fonts/ring.ttf?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/ring.ttf') format('woff'), /* Modern Browsers */
+       url('./fonts/ring.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'kelmscot';
+  src: url('./fonts/kelmscot.ttf'); /* IE9 Compat Modes */
+  src: url('./fonts/kelmscot.ttf?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/kelmscot.ttf') format('woff'), /* Modern Browsers */
+       url('./fonts/kelmscot.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'kingarthur';
+  src: url('./fonts/kingarthur.ttf'); /* IE9 Compat Modes */
+  src: url('./fonts/kingarthur.ttf?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/kingarthur.ttf') format('woff'), /* Modern Browsers */
+       url('./fonts/kingarthur.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+  
+
 /* html elements */
 
 html,
@@ -8,6 +33,7 @@ body {
   /* The html and body elements cannot have any padding or margin. */
   -webkit-font-smoothing: antialiased;
   font: normal 14px arial,sans-serif;
+  font-family: 'kelmscot', sans-serif;
 }
 
 h1 {
@@ -21,11 +47,10 @@ h1,h2,h3,h4 {
   vertical-align:middle;
 }
 
-
 p, .line, li {
-  font-size: 16px;
-  line-height: 20px;
-  font-family: monospace;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: 'kelmscot', sans-serif;
 }
 
 
@@ -67,6 +92,7 @@ p, .line, li {
 }
 
 .navbar-default .navbar-nav>li>a {
+  font-family: "ringbearer", monospace;
   font-weight: bold;
   font-size: 20px;
   line-height: 22px;
@@ -102,7 +128,7 @@ header.index {
 }
 
 header h3 {
-  font-family: monospace;
+  font-family: Helvetica, monospace;
   background: #ffcc33;
   padding:10px;
   border-radius:3px;
@@ -217,7 +243,6 @@ header .container {
   color:#efefef;
 }
 
-
 #footer > .container {
   
 }
@@ -227,7 +252,6 @@ header .container {
       float:none;
   }
 }
-
 
 .divider {
 	height:100px;
@@ -242,6 +266,12 @@ header .container {
 		height: 95px;
 	}
 }
+
+.intro {
+  padding: 10px 20px;
+}
+
+
 
 #map-canvas {
   	width: 100%; 
@@ -279,6 +309,10 @@ section {
 
 
 /* Articles */
+.teaser {
+  padding: 10px 0px;
+}
+
 article.postpage .teaser {
     display: none;
 }
@@ -329,24 +363,29 @@ ul.thumbnails li a {
 /* scoreboard */
 #scoreboard {
   text-align: center;
+  background-color: #C7EAFD;
 }
 
 
 #scoreboard h2 {
   display: block;
-  margin-top: 40px;
-  color: #428bca;
+  padding-top: 40px;
+  color: black;
   font-size: 82px;
   line-height: 84px;
   text-align: center;
+  font-family: 'kingarthur', sans-serif;
 }
 
 #scoreboard ol {
   padding: 0;
   margin: 40px 0 40px 0;
+  padding: 20px 0;
   display: block;
-  color: #428bca;
+  color: black;
   text-align: center;
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
 }
 
 #scoreboard ol li {
@@ -355,6 +394,12 @@ ul.thumbnails li a {
   font-size: 32px;
   line-height: 34px;
   list-style-position: inside;
+  color: black;
+  border-bottom: 2px dotted white;
+}
+
+#scoreboard ol a {
+  color: black;
 }
 
 

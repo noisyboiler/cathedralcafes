@@ -77,8 +77,3 @@ Architecture
 - Striking green copper roof
 - Convenient bike rack
 - Detailed stone carvings, for example, the bespectacled lawyer
-
-Final Score
------------
-
-Congratulations Chichester, you are awarded ?? points!

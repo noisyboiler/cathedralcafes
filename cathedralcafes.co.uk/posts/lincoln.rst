@@ -82,8 +82,3 @@ Architecture
 - The Dean's Eye and The Bishop's Eye - two large rose windows with highly unusual medieval features.
 - Crazy experimental, asymetric Zig-Zag Vaults
 - First use in a Cathedral of arched diagonal ribs, called tiercerons.
-
-Final Score
------------
-
-Congratulations Lincoln, you are awarded XX points!

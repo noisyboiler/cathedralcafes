@@ -84,8 +84,3 @@ Architecture
 - Second largest spire
 - Largest cathedral close in England (not second). Tombland (the original marketplace, church and houses) is basically now the cathedral close/precinct.
 - Only two story Cloister in the CofE
-
-Final Score
------------
-
-Congratulations Norwich, you are awarded XX points!

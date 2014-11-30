@@ -92,8 +92,3 @@ Architecture
 - Two Norman doorways
 - Original church possibly pre-800AD; witnesses now quite hard to come by
 - Roman roads on show
-
-Final Score
------------
-
-Congratulations Southwark, you are awarded ?? points!

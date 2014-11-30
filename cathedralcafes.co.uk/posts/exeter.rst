@@ -79,8 +79,3 @@ Architecture
 
 - Longest uninterrupted vaulted ceiling in the whole world
 - The ONLY cathedral with two squres towers
-
-Final Score
------------
-
-Congratulations Exeter, you are awarded 52 points!

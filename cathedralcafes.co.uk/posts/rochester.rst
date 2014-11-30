@@ -8,7 +8,7 @@
 .. description: The official Cathedral Cafe visit to Rochester cathedral
 .. type: text
 .. class: rochester
-.. summary: Rochester Cathedral is a fine Norman, has a famous mouse, has a really old clock and has roots with one of our most famous writers.
+.. summary: England's second oldest Cathedral, in our smallest diocese, is commonly cited as England's finest Norman church.
 .. architecture: 3rd! 
 .. dead_people: 5th
 .. cafe: 4th
@@ -50,6 +50,7 @@ The Cathedral Tea Rooms
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 The cafe is a busy affair with English gardens and a traditional feel. It has a lived-in and well-used character; no franchising here.
+
 There are home-made cakes on the counter, a simple menu and a queue holding as many locals as tourists. If you visit in the summer, the garden will almost certainly be where you will rest your tray. Even if it is too chilly, go and take a peek.
 
 We visited on a very busy day (it being the December Dickensian Festival) and so our experience of the main café may not be typical: we were served tea in cardboard and, while we accept some people like milky tea, it was weak. This has affected our scoring, perhaps unfairly. Luckily, a pop-up cafe appeared in the Crypt for festival day where the tea was in cups and was as strong as you liked!
@@ -86,8 +87,3 @@ Architecture
 - Round arches
 - French monk and architect Gundulf, was the builder of much of the Tower of London
 - The Green Men carvings
-
-Final Score
------------
-
-Congratulations Rochester, you are awarded XX points!

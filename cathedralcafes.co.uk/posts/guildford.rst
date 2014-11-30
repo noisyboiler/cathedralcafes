@@ -27,7 +27,7 @@ Guildford
 
 	<p>England's most modern cathedral in a youthful 1927 diocese. Along with the Queen, one of team CC's grandmother owns a brick here.<p>
 
-	<p><span class="strong">Must-Dos:</span>  <i>Re-enact scenes from The Omen, find which of the royal family owns bricks here, drink tea.</i></p>
+	<p><span class="strong">Must-Dos:</span>  <i>Imagine the scenes from The Omen, find the royal bricks, drink tea.</i></p>
 
 .. raw:: html
 
@@ -91,7 +91,3 @@ Architecture
 - Modern. Really different to any other cathedral.
 - Clay bricks made from the hill that it rests on.
 
-Final Score
------------
-
-Congratulations Guildford, you are awarded ?? points!

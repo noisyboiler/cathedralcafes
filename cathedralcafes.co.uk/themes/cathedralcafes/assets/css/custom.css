@@ -299,9 +299,10 @@ header .intro p {
   position: absolute;
   top: 20px;
   left: 20px;
-  color: #FFF000;
+  color: #777;
   font-size: 94px;
   line-height: 96px;
+  font-family: "ringbearer", monospace;
 }
 
 .scroll-top {
@@ -398,11 +399,11 @@ ul.thumbnails li a {
 #scoreboard h2 {
   display: block;
   padding-top: 40px;
-  color: black;
   font-size: 82px;
   line-height: 84px;
   text-align: center;
-  font-family: 'kingarthur', sans-serif;
+  font-family: "ringbearer", monospace;
+  color: #777;
 }
 
 #scoreboard ol {
@@ -422,12 +423,13 @@ ul.thumbnails li a {
   font-size: 32px;
   line-height: 34px;
   list-style-position: inside;
-  color: black;
+  color: #777;
   border-bottom: 2px dotted white;
 }
 
 #scoreboard ol a {
   color: black;
+  color: #777;
 }
 
 

@@ -8,24 +8,22 @@
 {% block header_class %} index{% endblock %}
 
 {% block header %}
-    <div class="col-sm-6"></div>
-    <div class="col-sm-4 intro">
-        <h1><p class="lead">(tea drinkers, cathedral tinkers)</p></h1>
+<div class="wrp">
+
+    <div class="intro">
         <p>We are visting every one of our Church Of England cathedral cafes &mdash; how exciting!!</p>
-        <p>This is a <i>very</i> important challenge that after almost 2000 years will finally unveil England's finest cathedral.</p>
+        <p>This is a <i>very</i> important challenge that after almost 2000 years will unveil England's finest cathedral.</p>
     </div>
-{% endblock%}
 
-{% block content %}
-<div class="container">
-
-    <div class="postindex copy intro">
-        <p class="copy important">Each church is <i>brutally</i> critiqued on fundamental criteria such as their cakes, the quality of their dead people and on the trivia we learn on the day. The result is a compelling <a href="/#scores">league table</a> that is gripping the nation!</p>
-        <p class="copy important">So, which church has the "&dagger;-factor"?</p>
+    <div class="rules copy">
+        <p>Each church is <i>brutally</i> critiqued on fundamental criteria such as their cakes, the quality of their dead people and on the trivia we learn on the day. The result is a compelling <a href="/#scores">league table</a> that is gripping the nation!<br />
+        So, which church has the "&dagger;-factor"?</p>
     </div>
 
 </div>
+{% endblock%}
 
+{% block content %}
 <div class="container">
 
     <div id="critique">
@@ -33,10 +31,10 @@
         <div class="copy">
 
             <div class="criteria">
-            <img src="./assets/img/icons/cafe.png" alt="cafe tea-cup" />
+            <img src="./assets/img/icons/architectural-features.png" alt="cathedral" />
             <div class="info">
-            <h3>CAFE</h3>
-            <p>The cornerstone of every cathedral</p>
+              <h3>ARCHITECTURE</h3>
+              <p>Structural wonder</p>
             </div>
             </div>
 
@@ -49,6 +47,14 @@
             </div>
 
             <div class="criteria">
+            <img src="./assets/img/icons/cafe.png" alt="cafe tea-cup" />
+            <div class="info">
+            <h3>CAFE</h3>
+            <p>The cornerstone of every cathedral</p>
+            </div>
+            </div>
+
+            <div class="criteria">
             <img src="./assets/img/icons/treasures.png" alt="treasure chest" />
             <div class="info">
               <h3>TREASURES</h3>
@@ -57,15 +63,7 @@
             </div>
 
             <div class="criteria">
-            <img src="./assets/img/icons/architectural-features.png" alt="cathedral" />
-            <div class="info">
-              <h3>ARCHITECTURE</h3>
-              <p>Structural wonder</p>
-            </div>
-            </div>
-
-            <div class="criteria">
-            <img src="./assets/img/icons/stories-trivia.png" alt="?" />
+            <img src="./assets/img/icons/stories.png" alt="stories, myths and trivia" />
             <div class="info">
               <h3>STORIES</h3>
               <p>Myths, stories and anecdotes</p>
@@ -77,7 +75,8 @@
     </div>
 
 </div>
-    
+
+
 <div class="container mcontainer">
 
     <div id="map">
@@ -98,6 +97,14 @@
 
     </div>
 
+</div>
+
+
+<div class="container">
+    <div id="facts">
+        <h3>Fun Fact!!</h3s>
+        <p id="fact"></p>
+    </div>
 </div>
 
 

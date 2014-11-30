@@ -7,7 +7,7 @@
 .. description: The official Cathedral Cafe visit to Norwich cathedral
 .. type: text
 .. class: norwich
-.. summary: A relatively quick Norman build, 1096 - 1145, the church required the demolition of the towns marketplace, two churches and a few houses, this is England's most complete Norman cathedral.
+.. summary: England's most complete Norman cathedral.
 .. architecture: 2nd!!
 .. dead_people: 2nd!!
 .. cafe: 2nd!!

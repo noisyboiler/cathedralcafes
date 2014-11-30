@@ -118,13 +118,20 @@ p, .line, li {
    -webkit-transition: all .6s ease-in-out;
 }
 
+header {
+  position: relative;
+  clear: both;
+  width: 100%;
+}
+
+header.index .wrp {
+  margin: 0 auto;
+  width: 970px;
+}
+
 header h1 {
   display: block;
   margin: 10px 0 10px 0;
-}
-
-header.index h1 {
-  background: url('./img/cathedralcafes.png') no-repeat;
 }
 
 header.index {
@@ -141,18 +148,15 @@ header h3 {
   padding:12px 10px 6px 10px;
 }
 
-header .dropdown-menu {
-  top:74px;
-  background: #ffcc33;
-  border-width:0;
-}
 
 /* lower the logo and H1 */
 /* lower the logo and H1 */
 header .intro {
-  padding: 60px 80px 0 0;
+  position: relative;
+  padding: 0px 80px 0 0;
+  top: 80px;
+  left: 500px;
   width: 500px;
-  float: right;
   height: 300px;
 }
 
@@ -174,16 +178,6 @@ header .intro p {
   font-size: 24px;
   line-height: 28px;
 }
-
-header .container {
-  height: 361px;
-  border-top: 5px solid white;
-}
-
-
-
-
-
 
 .row {
   margin-left:0px;
@@ -251,6 +245,12 @@ header .container {
   margin: 20px 0;
 }
 
+.more a {
+  font-size: 28px;
+  line-height: 30px;
+  font-weight: bold;
+}
+
 #footer {
   background-color:#414141;
 }
@@ -287,13 +287,21 @@ header .container {
   padding: 10px 20px;
 }
 
-
-
 #map-canvas {
-  	width: 100%; 
-  	height: 300px;
-	margin: 0;
+  width: 100%; 
+  height: 300px;
+  margin: 0;
 	padding: 15px;
+}
+
+#map-title {
+  display: block;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: #FFF000;
+  font-size: 94px;
+  line-height: 96px;
 }
 
 .scroll-top {
@@ -430,7 +438,7 @@ ul.thumbnails li a {
   position:relative;
   float:left;
   width:100%;
-  height:240px;
+  height:250px;
   min-height:240px;
   margin: 20px 0 40px 0;
   padding: 0;
@@ -542,6 +550,13 @@ ul.thumbnails li a {
   background: url('./img/chichester-masthead.jpg') no-repeat left top; 
   height: 425px;
 }
+
+/*
+.cathedral-leader {
+  border-bottom: 10px solid #FFF000;
+}
+*/
+
 
 article header {
   margin: 0px;

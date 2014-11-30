@@ -16,7 +16,7 @@
     </div>
 
     <div class="rules copy">
-        <p>Each church is <i>brutally</i> critiqued on fundamental criteria such as their cakes, the quality of their dead people and on the trivia we learn on the day. The result is a compelling <a href="/#scores">league table</a> that is gripping the nation!<br />
+        <p>Each church is <i>brutally</i> critiqued on fundamental criteria such as their cakes, the quality of their dead people and on the trivia we learn on the day. The result is a compelling <a href="/#scores">league table</a> that has gripped the nation!<br />
         So, which church has the "&dagger;-factor"?</p>
     </div>
 
@@ -75,12 +75,11 @@
     </div>
 
 </div>
-
-
+    <a name="cathedrals" class="anchor"></a>
 <div class="container mcontainer">
 
     <div id="map">
-
+        <h2 id="map-title">Our Targets!</h2>
         <div id="key">
             <ul>
                 <li><img src="/assets/img/icons/cathedral_ready.png" alt="icon" title="Cathedral Ready!">
@@ -92,7 +91,7 @@
             </ul>
         </div>
 
-        <div id="map_canvas">   
+        <div id="map_canvas"> 
         </div>
 
     </div>
@@ -102,7 +101,7 @@
 
 <div class="container">
     <div id="facts">
-        <h3>Fun Fact!!</h3s>
+        <h3>A Fun Fact!!</h3s>
         <p id="fact"></p>
     </div>
 </div>
@@ -111,9 +110,8 @@
 <div class="container">
 
     <div class="postindex">
-    <a name="cathedrals" class="anchor"></a>
     {% for post in posts %}
-        <article class="h-entry post-{{ post.meta('type') }} {{ post.meta('class') }}">
+        <article class="h-entry post-{{ post.meta('type') }} {{ post.meta('class') }} cathedral-leader">
         <header class="{{ post.meta('class') }}">
             <h2><a href="{{ post.permalink() }}">{{ post.meta('location') }}</h2></a>
             <div class="metadata">

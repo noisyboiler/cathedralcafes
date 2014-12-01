@@ -129,9 +129,11 @@ header.index .wrp {
   width: 970px;
 }
 
-header h1 {
-  display: block;
-  margin: 10px 0 10px 0;
+header h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #717171;
+  color:#F3EA50;
 }
 
 header.index {
@@ -154,11 +156,18 @@ header h3 {
 header .intro {
   position: relative;
   padding: 0px 80px 0 0;
-  top: 80px;
+  top: 40px;
   left: 500px;
   width: 500px;
   height: 300px;
 }
+
+/*
+header .intro h2 {
+  font-family: "ringbearer", monospace;
+}
+*/
+
 
 header .rules {
   position: relative;
@@ -196,11 +205,40 @@ header .intro p {
 }
 
 /* Set the fixed height of the footer here */
-#footer {
-  height: 60px;
-  margin-top:50px;
-  padding-top:20px;
-  padding-bottom:20px;
+footer {
+  height: 100px;
+  background-color: #f8f8f8;
+  text-align: center;
+}
+
+footer div.container {
+  height: 100px;
+  text-align: center;
+  color: black;
+}
+
+footer div.container p a {
+  display: block;
+  font-family: Helvetica;
+  font-size: 20px;
+  color: black;
+  padding-top: 30px;
+}
+
+
+
+/* disqus footer */
+
+ul.pager a {
+  color: black;
+}
+
+section.comments {
+  color: black;
+}
+
+#footer * {
+  color: black;
 }
 
 
@@ -249,10 +287,6 @@ header .intro p {
   font-size: 28px;
   line-height: 30px;
   font-weight: bold;
-}
-
-#footer {
-  background-color:#414141;
 }
 
 #footer a {
@@ -368,7 +402,9 @@ article h2 a {
   font-size: 20px;
 }
 
-
+.entry-content {
+  margin-top: 10px; 
+}
 
 /* Galleries */
 ul.thumbnails {
@@ -429,7 +465,7 @@ ul.thumbnails li a {
 
 #scoreboard ol a {
   color: black;
-  color: #777;
+  color: #717171;
 }
 
 

@@ -2,12 +2,11 @@
 {% import 'base_helper.tmpl' as base with context %}
 
 {% macro html_footer() %}
-    {% if content_footer %}
-        <footer id="footer" role="contentinfo">
+
+        <footer role="contentinfo">
         	<div class="container">
-	            <p>{{ content_footer }}</p>
-	            {{ template_hooks['page_footer']() }}
+	            <p><a href="mailto:noisyboiler@googlemail.com">contact us</a></p>
 	        </div>
         </footer>
-    {% endif %}
+
 {% endmacro %}

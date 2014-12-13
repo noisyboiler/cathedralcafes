@@ -37,7 +37,12 @@ body {
 }
 
 a {
-  color: #EFFB80;
+    color: #D1E8FF
+
+}
+
+a:hover {
+    color: #fff000;
 }
 
 h1 {
@@ -49,7 +54,7 @@ h1 {
 
 h1,h2,h3,h4 {
   vertical-align: middle;
-  font-family: 'kelmscot', monospace;
+  font-family: 'ringbearer', monospace;
 }
 
 p, .line, li {
@@ -69,7 +74,7 @@ p, .line, li {
 
 .published {
   color: #FFF000;
-  margin: 5px;
+  margin: 0 0 0 20px;
 }
 
 /* navbar */
@@ -277,9 +282,10 @@ section.comments {
 }
 
 .more a {
-  font-size: 28px;
-  line-height: 30px;
-  font-weight: bold;
+    font-size: 28px;
+    line-height: 30px;
+    font-weight: bold;
+    color: black;
 }
 
 #footer a {
@@ -322,14 +328,13 @@ section.comments {
 }
 
 #map-title {
-  display: block;
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  color: #777;
-  font-size: 94px;
-  line-height: 96px;
-  font-family: "ringbearer", monospace;
+    display: block;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 84px;
+    line-height: 86px;
+    font-family: "ringbearer", monospace;
     color: black;
 }
 
@@ -542,11 +547,12 @@ ul.thumbnails li a {
 }
 
 .postindex article header h2 a {
-  display: block;
-  color: #fff000;
-  font-size: 82px;
-  line-height: 84px;
-  text-align: left;
+    display: block;
+    color: #fff000;
+    font-size: 122px;
+    line-height: 124px;
+    text-align: left;
+    padding: 20px 20px 0 20px;
 }
 
 .postindex article header.lincoln {

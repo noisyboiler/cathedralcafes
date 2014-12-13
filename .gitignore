@@ -1,3 +1,4 @@
 output/
 cache/
 conf.py
+.doit.db

@@ -33,7 +33,7 @@ body {
   /* The html and body elements cannot have any padding or margin. */
   -webkit-font-smoothing: antialiased;
   font: normal 14px arial,sans-serif;
-  font-family: 'kelmscot', sans-serif;
+  font-family: 'kelmscot', monospace;
 }
 
 a {
@@ -49,13 +49,13 @@ h1 {
 
 h1,h2,h3,h4 {
   vertical-align: middle;
-  font-family: 'kelmscot', sans-serif;
+  font-family: 'kelmscot', monospace;
 }
 
 p, .line, li {
   font-size: 18px;
   line-height: 22px;
-  font-family: 'kelmscot', sans-serif;
+  font-family: 'ringbearer', monospace;
 }
 
 
@@ -130,10 +130,14 @@ header.index .wrp {
 }
 
 header h2 {
-  font-size: 32px;
-  font-weight: bold;
-  color: #717171;
-  color:#F3EA50;
+    font-size: 32px;
+    font-weight: normal;
+    color: black;
+}
+
+header .intro p {
+    font-size: 24px;
+    line-height: 28px;
 }
 
 header.index {
@@ -152,22 +156,14 @@ header h3 {
 
 
 /* lower the logo and H1 */
-/* lower the logo and H1 */
 header .intro {
-  position: relative;
-  padding: 0px 80px 0 0;
-  top: 40px;
-  left: 500px;
-  width: 500px;
-  height: 300px;
+    position: relative;
+    padding: 0px 20px 0 0;
+    top: 40px;
+    left: 500px;
+    width: 450px;
+    height: 300px;
 }
-
-/*
-header .intro h2 {
-  font-family: "ringbearer", monospace;
-}
-*/
-
 
 header .rules {
   position: relative;
@@ -183,10 +179,7 @@ header .rules p {
   line-height: 26px;
 }
 
-header .intro p {
-  font-size: 24px;
-  line-height: 28px;
-}
+
 
 .row {
   margin-left:0px;
@@ -337,6 +330,7 @@ section.comments {
   font-size: 94px;
   line-height: 96px;
   font-family: "ringbearer", monospace;
+    color: black;
 }
 
 .scroll-top {
@@ -361,10 +355,6 @@ section {
   height: 100%;
   padding-top: 20px;
 }
-
-
-
-
 
 
 /* Articles */
@@ -399,8 +389,18 @@ article h2 a {
 }
 
 #critique h3 {
-  font-size: 20px;
+    font-size: 20px;
+    color: #777;
+    font-weight: bold;
 }
+
+#critique p {
+    text-align: center;
+    font-size: 18px;
+    line-height: 28px;
+    color: #777;
+}
+
 
 .entry-content {
   margin-top: 10px; 
@@ -482,11 +482,6 @@ ul.thumbnails li a {
   padding: 0;
 }
 
-#critique p {
-  text-align: center;
-  font-size: 26px;
-  line-height: 28px;
-}
 
 #critique .wrp {
   padding:0 0 20px 0;

@@ -239,14 +239,6 @@
             marker.title = '';
             //  and kill the infoWindow too as it's ugly!
             marker.infoWindow.content = '';
-            //  now attach our own click event to link to cathedrals
-            google.maps.event.addListener(marker, "click", function() {
-                // the URL is a custom attribute I've added to the KML
-                // and picked out by our custom KML parser
-                console.log(placemark.url)
-                window.location = placemark.url;
-            });
-
         }
 
     }

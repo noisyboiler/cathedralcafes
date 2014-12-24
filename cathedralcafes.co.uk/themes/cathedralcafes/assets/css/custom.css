@@ -81,10 +81,12 @@ p, .line, li {
 .navbar {
   margin-bottom: 0px;
   border: 1px solid transparent;
+  min-width: 970px;
 }
 
 .navbar-nav {
-  margin: 1px 1px; 
+  margin: 1px 1px;
+  min-width: 400px;
 }  
   
 .navbar-header {
@@ -129,10 +131,12 @@ header {
   width: 100%;
 }
 
-header.index .wrp {
+ .wrp {
   margin: 0 auto;
   width: 970px;
+  min-width: 970px;
 }
+
 
 header h2 {
     font-size: 32px;
@@ -147,7 +151,7 @@ header .intro p {
 
 header.index {
   height: 496px;
-  background: url('./img/cathedral-cafes.png') no-repeat top center;
+  background: url('./img/cathedral-cafes.jpg') no-repeat top center;
 }
 
 header h3 {
@@ -164,6 +168,7 @@ header h3 {
 header .intro {
     position: relative;
     padding: 0px 20px 0 0;
+    margin: 0;
     top: 40px;
     left: 500px;
     width: 450px;
@@ -636,7 +641,8 @@ article header {
   _color: black; /*  shows in IE6 and below */ 
   padding: 10px; 
   margin:0px; 
-  cursor: pointer;
+  pointer-events: none;
+  cursor: default;
 }
 
 .map-tooltip, .button { -moz-border-radius:5px; -webkit-border-radius:5px; }

@@ -618,11 +618,13 @@ article header {
   padding: 0;
   /* background-color: #effb80; */
   padding: 0 20px;
+  color: #777;
 }
 
 #facts p {
   font-size: 40px;
   line-height: 44px;
+  color: #777;
 }
 
 
@@ -693,12 +695,21 @@ article header {
     background: transparent url('./img/light-blue-transparent.png') 0 0 repeat;
 }
 
-#key ul {
+#key h3 {
     display: block;
     clear: both;
     float: left;
     width: 240px;
     margin-top: 50px;
+    padding-left: 73px;
+}
+
+#key ul {
+    display: block;
+    clear: both;
+    float: left;
+    width: 240px;
+    margin-top: 0px;
     padding-left: 10px;
 }
 

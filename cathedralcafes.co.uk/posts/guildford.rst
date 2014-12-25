@@ -7,7 +7,7 @@
 .. description: The official Cathedral Cafe visit to Guildford cathedral
 .. type: text
 .. class: guildford
-.. summary: Architecturally and technologically England's most modern cathedral. 
+.. summary: Architecturally and technologically England's most modern cathedral
 .. architecture: 5th
 .. dead_people: last
 .. cafe: 6th

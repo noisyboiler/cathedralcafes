@@ -57,12 +57,24 @@ h1,h2,h3,h4 {
   font-family: 'ringbearer', monospace;
 }
 
-p, .line, li {
+p, .line {
   font-size: 18px;
   line-height: 22px;
   font-family: 'ringbearer', monospace;
 }
 
+li {
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "Trebuchet MS", Helvetica, monospace;
+}
+
+article.postpage p {
+  font-size: 22px;
+  line-height: 24px;
+  padding: 0 40px;
+  font-family: "Trebuchet MS", Helvetica, monospace;
+}
 
 .strong {
   font-weight: bold;
@@ -189,6 +201,9 @@ header .rules p {
   line-height: 26px;
 }
 
+article {
+
+}
 
 
 .row {
@@ -380,35 +395,20 @@ article h2 a {
   color: black;
 }
 
-.article h1 {
-  color: black;
-  font-size: 40px;
-  margin-bottom: 40px;
-  text-align: center;
-}
-
-#critique.article {
-  margin: 20px 0 0px 0;
-  padding:0;
-}
-
-#critique.article .criteria p {
-  color: #428bca;
-  font-size: 40px;
-  line-height: 44px;
-}
-
-#critique h3 {
-    font-size: 20px;
-    color: #777;
-    font-weight: bold;
-}
-
-#critique p {
+header h1 {
+    display: block;
+    color: #fff000;
+    font-size: 82px;
+    line-height: 84px;
     text-align: center;
-    font-size: 18px;
-    line-height: 28px;
-    color: #777;
+}
+
+article header h1 {
+    display: block;
+    color: #fff000;
+    font-size: 82px;
+    line-height: 84px;
+  text-align: center;
 }
 
 
@@ -431,9 +431,6 @@ ul.thumbnails li a {
   display: block;
   float: left;
 }
-
-
-
 
 /* scoreboard */
 #scoreboard {
@@ -482,24 +479,59 @@ ul.thumbnails li a {
 /* crtiique/scoring */
 
 #critique {
-  z-index:30;
-  position:relative;
-  float:left;
-  width:100%;
-  height:250px;
-  min-height:240px;
-  margin: 20px 0 40px 0;
+  z-index: 30;
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 280px;
+  min-height: 280px;
+  margin: 20px 0 0 0;
   padding: 0;
 }
 
+.church_article #critique {
+  margin: 20px 0 40px 0 !important;
+}
 
 #critique .wrp {
   padding:0 0 20px 0;
 }
 
 #critique .wrp .copy {
-  padding:0 0 0 40px;
+  padding:0 0 0 0px;
   margin:0;
+}
+
+
+#critique.article {
+  margin: 20px 0 0px 0;
+  padding:0;
+}
+
+#critique.article .criteria p {
+  color: #428bca;
+  font-size: 40px;
+  line-height: 44px;
+}
+
+#critique h3 {
+    font-size: 20px;
+    color: #777;
+    font-weight: bold;
+}
+
+#critique p.summary {
+    text-align: center;
+    font-size: 34px;
+    line-height: 38px;
+    margin: 0;
+    padding: 0 0 20px 0;
+}
+
+#criterium {
+  background: blue;
+  margin: 0 auto;
+  margin-left: 40px;
 }
 
 .criteria
@@ -560,41 +592,41 @@ ul.thumbnails li a {
     padding: 20px 20px 0 20px;
 }
 
-.postindex article header.lincoln {
+header.lincoln {
   background: url('./img/lincoln-masthead.jpg') no-repeat left top; 
   height: 445px;
 }
 
-.postindex article header.rochester {
+header.rochester {
   background: url('./img/rochester-masthead.jpg') no-repeat left top;
   height: 425px; 
 }
 
-.postindex article header.exeter {
+header.exeter {
   background: url('./img/exeter-masthead.jpg') no-repeat left top; 
   height: 582px;
 }
 
-.postindex article header.guildford {
+header.guildford {
   background: url('./img/guildford-masthead.jpg') no-repeat left top; 
   height: 304px;
 }
 
-.postindex article header.southwark {
+header.southwark {
   background: url('./img/southwark-masthead.jpg') no-repeat left top; 
   height: 442px;
 }
 
-.postindex article header.norwich {
+header.norwich {
   background: url('./img/norwich-masthead.jpg') no-repeat left top; 
   height: 506px;
 }
 
-.postindex article header.chichester {
+header.chichester {
   background: url('./img/chichester-masthead.jpg') no-repeat left top; 
   height: 425px;
 }
-
+  
 /*
 .cathedral-leader {
   border-bottom: 10px solid #FFF000;

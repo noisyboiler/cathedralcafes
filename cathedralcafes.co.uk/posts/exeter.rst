@@ -8,7 +8,7 @@
 .. description: The official Cathedral Cafe visit to Exeter cathedral
 .. type: text
 .. class: exeter
-.. summary: Exeter cathedral has the cafe that other churches dream of! Also striking architecture and some bodies of interest.
+.. summary: Striking architecture and the cafe that other churches dream of
 .. architecture: 4th
 .. dead_people: 4th
 .. cafe: 1st!!!

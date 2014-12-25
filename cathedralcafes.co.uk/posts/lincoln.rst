@@ -7,7 +7,7 @@
 .. description: The official Cathedral Cafe visit to Lincoln cathedral
 .. type: text
 .. class: lincoln
-.. summary: Lincoln was a small, comfortable cafe, a feast of architecture, holdiing treasure and stories... but was light on dead people.
+.. summary: A feast of architecture, with many treasure and stories - but light on dead people
 .. architecture: 1st!!!
 .. dead_people: 6th
 .. cafe: 7th

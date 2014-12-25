@@ -24,17 +24,20 @@
     {{ helper.meta_translations(post) }}
 {% endblock %}
 
-{% block header_class %} article{% endblock %}
-
 {% block header %}
-<div class="container">
+<div class="container church_article">
+    <header class="{{ post.meta('class') }} full">
     <div class="copy">
         <h1>{{ post.meta('church_name') }}</h1>
     </div>
+    </header>
     <div id="critique" class="article">
 
-        <div class="wrp">
-        <div class="copy">
+        <div class="clearfix"></div>
+        <p class="summary">{{ post.meta('summary') }}</p>
+        <div class="clearfix"></div>
+
+        <div id="criterium">
 
             <div class="criteria">
             <img src="/assets/img/icons/cafe.png" alt="cafe tea-cup" />
@@ -72,10 +75,6 @@
             </div> 
 
         </div>
-        </div>
-
-        <div class="clearfix"></div>
-        <p>{{ post.meta('summary') }}</p>
 
     </div>
 
@@ -89,6 +88,7 @@
 
     {{ pheader.html_post_header() }}
     <div class="e-content entry-content" itemprop="articleBody text">
+        <h2>The Story</h2>
     {{ post.text() }}
     </div>
     <aside class="postpromonav">

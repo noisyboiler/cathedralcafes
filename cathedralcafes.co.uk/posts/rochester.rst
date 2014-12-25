@@ -8,7 +8,7 @@
 .. description: The official Cathedral Cafe visit to Rochester cathedral
 .. type: text
 .. class: rochester
-.. summary: England's second oldest Cathedral, in our smallest diocese, is commonly cited as England's finest Norman church.
+.. summary: England's second oldest Cathedral, in our smallest diocese - England's finest Norman church
 .. architecture: 3rd! 
 .. dead_people: 5th
 .. cafe: 4th

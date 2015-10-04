@@ -25,7 +25,7 @@ Rochester
 
 	<p>England's second oldest cathedral and possibly its finest Norman church. Found in the smallest diocese, this intimate church in central Rochester has over 1400 years of history and was cheated out of one of England's greatest dead bodies — Charles John Huffam Dickens.</p>
 
-	<p><span class="strong">Must-Dos:</span> <i>Wheel Of Fortune, read the (slightly bitter) Dickens trivia, drink tea.</i></p>
+	<p><span class="strong">Must-Dos:</span> <i>Find the Wheel Of Fortune, read some (slightly bitter) Dickens trivia, drink tea.</i></p>
 
 .. raw:: html
 

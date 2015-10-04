@@ -24,9 +24,9 @@ Exeter
 
 	<div class="teaser">
 
-	<p>Apprehensive of the long 8am train journey from London the CC adventurers were eventually greeted by glorious sunshine and a truly magnificent church on a delightful village green. Stand-out feature: The Cafe! With it's vaulted roof, stained glass windows, immaculate garden, great food, tea and service.</p>
+	<p>Apprehensive of the long 8am train journey from London the CC adventurers were eventually greeted by glorious sunshine and a truly magnificent church on a delightful village green. Stand-out feature: The Cafe! With its vaulted roof, stained glass windows, immaculate garden, great food, tea and service.</p>
 
-	<p><span class="strong">Must-Dos:</span> <i>Twin towers, Hickery Dickery clock, drink tea.</i></p>
+	<p><span class="strong">Must-Dos:</span> <i>Gaze at the twin towers, find Hickery Dickery clock, drink tea.</i></p>
 
 .. raw:: html
 

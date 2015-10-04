@@ -38,7 +38,6 @@ body {
 
 a {
     color: #D1E8FF
-
 }
 
 a:hover {
@@ -46,21 +45,25 @@ a:hover {
 }
 
 h1 {
-  display: block;
-  color: #003300;
-  font-size: 60px;
-  height:40px;
+    display: block;
+    color: #003300;
+    font-size: 60px;
+    height:40px;
 }
 
 h1,h2,h3,h4 {
-  vertical-align: middle;
-  font-family: 'ringbearer', monospace;
+    vertical-align: middle;
+    font-family: 'ringbearer', monospace;
 }
 
 p, .line {
   font-size: 18px;
   line-height: 22px;
   font-family: 'ringbearer', monospace;
+}
+
+div.teaser p, ul.breadcrumb li a, ul.gallery li a {
+  color: #777;
 }
 
 li {
@@ -306,6 +309,7 @@ section.comments {
     line-height: 30px;
     font-weight: bold;
     color: black;
+    color: #777;
 }
 
 #footer a {
@@ -654,8 +658,8 @@ article header {
 }
 
 #facts p {
-  font-size: 40px;
-  line-height: 44px;
+  font-size: 36px;
+  line-height: 40px;
   color: #777;
 }
 
@@ -802,3 +806,6 @@ div.infowindow p, div.infowindow a {
     /*background:transparent url(/static/images/backgrounds/map.jpg) 0 0 repeat-x;*/
 }
 
+ul.gallery {
+    margin: 20px;
+}

@@ -17,8 +17,7 @@
     </div>
 
     <div class="rules copy">
-        <p>Each church is <i>brutally</i> critiqued on fundamental criteria such as their <a href="/galleries/cakes/">cakes</a>, the quality of their dead people and on the trivia we learn on the day. The result is a compelling <a href="/#scores">league table</a> that has gripped the nation!<br />
-        So, which church has the "&dagger;-factor"?</p>
+        <p>Each church is <i>brutally</i> critiqued on fundamental criteria such as their <a href="/galleries/cakes/">cakes</a>, the quality of their dead people and on the trivia we learn on the day. The result is a compelling <a href="/#scores">league table</a> that has gripped the nation! So, which church has the "&dagger;-factor"?</p>
     </div>
 
 </div>
@@ -171,7 +170,7 @@
             //  missing a tile? annoying but the map is a
             //  pain to create with my freebie map software
             if(y!=41) {
-                var url = "/assets/img/uk/" + zoom+"/"+coord.x+"/"+y+".png";
+                var url = "assets/img/uk/" + zoom+"/"+coord.x+"/"+y+".png";
                 return url
             }
 
@@ -202,7 +201,7 @@
         };
 
         var cathedralsKmlLayer;
-        var kmlUrl = './assets/kml/cathedrals.kml';
+        var kmlUrl = 'assets/kml/cathedrals.kml';
 
         map = new google.maps.Map(document.getElementById("map_canvas"), mapOpts);
         //  http://code.google.com/p/geoxml3/wiki/ParserReference

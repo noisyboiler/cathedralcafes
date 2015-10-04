@@ -25,7 +25,7 @@ Norwich
 
 	<p>A relatively quick Norman build, 1096 - 1145, the church required the demolition of the towns marketplace, two churches and a few houses, however, this is England's most complete Norman cathedral.</p>
 
-	<p><span class="strong">Must-Dos:</span> <i>find pre-reformation wall paintings, study the bosses' stories, drink tea.</i></p>
+	<p><span class="strong">Must-Dos:</span> <i>Find the pre-reformation wall paintings, read the bosses' stories, drink tea.</i></p>
 
 .. raw:: html
 

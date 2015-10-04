@@ -7,7 +7,7 @@
 .. description: The official Cathedral Cafe visit to Lincoln cathedral
 .. type: text
 .. class: lincoln
-.. summary: A feast of architecture, with many treasure and stories - but light on dead people
+.. summary: A feast of architecture, with many treasures and stories - but light on dead people
 .. architecture: 1st!!!
 .. dead_people: 6th
 .. cafe: 7th
@@ -25,7 +25,7 @@ Lincoln
 
 	<p>An architectural treat with 1000 years of history - this building stands out amongst our Cathedrals. Also features Imps.</p>
 
-	<p><span class="strong">Must-Dos:</span> <i>Roof tour, find some Imps, drink tea.</i></p>
+	<p><span class="strong">Must-Dos:</span> <i>Do a Roof tour, find some Imps, drink tea.</i></p>
 
 .. raw:: html
 

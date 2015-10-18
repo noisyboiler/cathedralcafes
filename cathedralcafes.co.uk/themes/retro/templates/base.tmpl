@@ -1,0 +1,102 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'base_helper.tmpl' as base with context %}
+{% import 'base_header.tmpl' as header with context %}
+{% import 'base_footer.tmpl' as footer with context %}
+{% import 'annotation_helper.tmpl' as annotations with context %}
+{{ set_locale(lang) }}
+{{ base.html_headstart() }}
+{% block extra_head %}
+{#  Leave this block alone. #}
+{% endblock %}
+{{ template_hooks['extra_head']() }}
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+</head>
+
+<script>
+
+    var facts = [
+      'Southwark cathedral is the oldest Gothic church in London!!!',
+      'Guildford cathedral features features in the 1961 The Omen!!!',
+      'Guildford cathedral is the youngest in England - consecrated May 1961!!!',
+      'Guildford cathedral has the fewest stained glass windows!!!',
+      'Winchester cathedral has the most bells - 16!!!',
+      'Chichester is one of only two cathedrals that can be seen from the sea!!!',
+      'Chichester is the only cathedral with a free-standing bell tower!!!',
+      'Chichester is the only cathedral with "basilica-esk" double-aisles!!!',
+      'Southwark cathedral is home to William Shakespeare\'s brother, Edmund!!!',
+      'Norwich cathedral has the largest collection of Bosses!!!',
+      'Norwich cathedral is one of only three others to have no bells!!!',
+      'Norwich cathedral has more Misericords than any other cathedral!!!',
+      'Norwich cathedral has the 2nd largest spire!!!',
+      'Norwich cathedral has the largest cathedral close!!!',
+      'Norwich cathedral is the only cathedral with a two storey cloister!!!',
+      'Exeter cathedral is the rumoured source of Hickory Dickory Dock!!!',
+      'Exeter cathedral is the only cathedral with two square towers!!!',
+      'Exeter cathedral has the longest vaulted ceiling in the whole world!!!',
+      'Rochester cathedral\'s foundations are the second oldest in the country!!!',
+      'Lincoln cathedral was once the tallest building in the world!!!',
+      'Lincoln cathedral\'s roof is held in place by gravity alone!!!',
+      'The dioceses of Bradford has the fewest churches - 165!!!',
+      'The dioceses of Oxford has the most churches - 814!!!',
+      'Liverpool cathedral is our longest at 188.7 metres!!!',
+      'Chelmsford is our smallest at 53 metres tall and only 29 metres long!!!',
+      'Salisbury is our tallest, standing at 123.1 metres!!!',
+      'Lincoln cathedral has the most towers - 3!!!',
+    ]
+  
+  var fact = facts[Math.floor(Math.random()*facts.length)];
+
+</script>
+
+<body>
+
+<div class="wrp">
+
+    <div class="navbar navbar-custom navbar-static-top" id="nav">
+        <div class="container">
+            <div class="navbar-header">
+                <div class="collapse navbar-collapse">
+                {{ header.html_navigation_links() }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <header class="masthead{% block header_class %}{% endblock %}">
+        {% block header %}{% endblock %}
+    </header>
+
+    <main id="content">
+        {% block content %}{% endblock %}
+    </main>
+
+    {{ footer.html_footer() }}
+
+    {{ body_end }}
+    {{ template_hooks['body_end']() }}
+    {{ base.late_load_js() }}
+
+</div>
+
+</body>
+
+    <script type="text/javascript">
+        document.querySelector('#fact').innerHTML = fact;
+    </script>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-11486723-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+</html>

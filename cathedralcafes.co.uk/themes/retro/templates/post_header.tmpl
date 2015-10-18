@@ -1,0 +1,32 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'post_helper.tmpl' as helper with context %}
+{% import 'comments_helper.tmpl' as comments with context %}
+
+{% macro html_title() %}
+{% if title and not post.meta('hidetitle') %}
+    <h2 class="p-name entry-title" itemprop="headline name"><a href="{{ post.permalink() }}" class="u-url">{{ title|e }}</a></h2>
+{% endif %}
+{% endmacro %}
+
+{% macro html_translations(post) %}
+    {% if translations|length > 1 %}
+        <div class="metadata posttranslations translations">
+            <h3 class="posttranslations-intro">{{ messages("Also available in:") }}</h3>
+            {% for langname in translations.keys() %}
+                {% if langname != lang and post.is_translation_available(langname) %}
+                <p><a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a></p>
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endif %}
+{% endmacro %}
+
+{% macro html_sourcelink() %}
+    {% if show_sourcelink %}
+        <p class="sourceline"><a href="{{ post.source_link() }}" id="sourcelink">{{ messages("Source") }}</a></p>
+    {% endif %}
+{% endmacro %}
+
+{% macro html_post_header() %}
+
+{% endmacro %}

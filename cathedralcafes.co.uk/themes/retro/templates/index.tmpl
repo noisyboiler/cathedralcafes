@@ -1,0 +1,258 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'base_header.tmpl' as header with context %}
+{% import 'index_helper.tmpl' as helper with context %}
+{% import 'comments_helper.tmpl' as comments with context %}
+{% extends 'base.tmpl' %}
+
+
+{% block header_class %} index{% endblock %}
+
+{% block header %}
+
+{% endblock%}
+
+
+
+
+{% block content %}
+<div class="container">
+
+    <div class="wrp">
+
+        <div class="intro">
+            <h2>What is Cathedral Cafes?</h2>
+            <p>We are visting every one of our Church Of England cathedral cafes &mdash; how exciting!!</p>
+            <p>This is a <i>very</i> important challenge that after almost 2000 years will unveil England's finest cathedral.</p>
+        </div>
+
+        <div class="rules copy">
+            <p>Each church is <i>brutally</i> critiqued on fundamental criteria such as their <a href="/galleries/cakes/">cakes</a>, the quality of their dead people and on the trivia we learn on the day. The result is a compelling <a href="/#scores">league table</a> that has gripped the nation! So, which church has the "&dagger;-factor"?</p>
+        </div>
+
+    </div>
+
+    <div id="critique">
+
+        <div id="criterium">
+
+            <div class="criteria">
+            <img src="./assets/img/icons/architectural-features.png" alt="cathedral" />
+            <div class="info">
+              <h3>ARCHITECTURE</h3>
+              <p>Structural wonder</p>
+            </div>
+            </div>
+
+            <div class="criteria">
+            <img src="./assets/img/icons/dead-people.png" alt="grave stone!" />
+            <div class="info">
+            <h3>DEAD PEOPLE</h3>
+            <p>Famous bodies buried</p>
+            </div>
+            </div>
+
+            <div class="criteria">
+            <img src="./assets/img/icons/cafe.png" alt="cafe tea-cup" />
+            <div class="info">
+            <h3>CAFE</h3>
+            <p>The cornerstone of every cathedral</p>
+            </div>
+            </div>
+
+            <div class="criteria">
+            <img src="./assets/img/icons/treasures.png" alt="treasure chest" />
+            <div class="info">
+              <h3>TREASURES</h3>
+              <p>Valued items</p>
+            </div>
+            </div>
+
+            <div class="criteria">
+            <img src="./assets/img/icons/stories.png" alt="stories, myths and trivia" />
+            <div class="info">
+              <h3>STORIES</h3>
+              <p>Myths, stories and anecdotes</p>
+            </div>
+            </div> 
+
+        </div>
+
+    </div>
+
+</div>
+    <a name="cathedrals" class="anchor"></a>
+<div class="container mcontainer">
+
+    <div id="map">
+        <div id="key">
+            <h3>Our Targets</h3>
+            <ul>
+                <li><img src="/assets/img/icons/cathedral_ready.png" alt="icon" title="Cathedral Ready!">
+                    <span>Cathedral Ready</span></li>
+                <li><img src="/assets/img/icons/cathedral_visited.png" alt="icon" title="Cathedral Assessed!">
+                    <span>Visted!</span></li>
+                <li><img src="/assets/img/icons/cathedral_next.png" alt="icon" title="Next Cathedral!">
+                    <span>Next Cathedral</span></li>
+            </ul>
+        </div>
+
+        <div id="map_canvas"> 
+        </div>
+
+    </div>
+
+</div>
+
+
+<div class="container">
+    <div id="facts">
+        <h3>A Fun Fact!!</h3s>
+        <p id="fact"></p>
+    </div>
+</div>
+
+
+<div class="container">
+
+    <div class="postindex">
+    {% for post in posts %}
+        <article class="h-entry post-{{ post.meta('type') }} {{ post.meta('class') }} cathedral-leader">
+        <header class="{{ post.meta('class') }}">
+            <h2><a href="{{ post.permalink() }}">{{ post.meta('location') }}</h2></a>
+            <div class="metadata">
+                <p class="dateline"><a href="{{ post.permalink() }}" rel="bookmark"><time class="published dt-published" datetime="{{ post.date.isoformat() }}" itemprop="datePublished" title="{{ messages("Publication date") }}">{{ post.formatted_date(date_format) }}</time></a></p>
+            </div>
+        </header>
+        {% if index_teasers %}
+        <div class="p-summary entry-summary">
+        {{ post.text(teaser_only=True) }}
+        {% else %}
+        <div class="e-content entry-content">
+        {{ post.text(teaser_only=False) }}
+        {% endif %}
+        </div>
+        </article>
+    {% endfor %}
+    </div>
+
+</div>
+
+<div class="container">
+
+    <div id="scoreboard">
+        <a name="scores" class="anchor"></a>
+        <h2>The League Table!</h2>
+        <ol>
+           <li><a href="/posts/norwich/">Norwich</a></li>
+           <li><a href="/posts/lincoln/">Lincoln</a></li>
+           <li><a href="/posts/exeter/">Exeter</a></li>
+           <li><a href="/posts/rochester/">Rochester</a></li>
+           <li><a href="/posts/chichester/">Chichester</a></li>
+           <li><a href="/posts/southwark/">Southwark</a></li>
+           <li><a href="/posts/guildford/">Guildford</a></li>
+        </ol>
+    </div>
+
+</div>
+
+{{ helper.html_pager() }}
+{{ comments.comment_link_script() }}
+{{ helper.mathjax_script(posts) }}
+
+    <script type="text/javascript" src="/assets/js/jquery-1.6.4.min.js"></script>
+    <script type="text/javascript" src="/assets/js/jquery.marker.tooltip.js"></script>  
+    <script type="text/javascript" src="/assets/js/geoxml3.js"></script>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+    <script type="text/javascript">
+    
+    var ukOverlay = new google.maps.ImageMapType({
+
+        getTileUrl: function(coord, zoom) {
+
+            var ymax = 1 << zoom;
+            var y = ymax - coord.y -1;
+            //  missing a tile? annoying but the map is a
+            //  pain to create with my freebie map software
+            if(y!=41) {
+                var url = "assets/img/uk/" + zoom+"/"+coord.x+"/"+y+".png";
+                return url
+            }
+
+        },
+        tileSize: new google.maps.Size(256, 256),
+        isPng: true
+
+    });
+
+    function init(){
+
+        var cathedrals;
+        var map;
+
+        var mapOpts = {
+            zoom: 6,
+            width:700,
+            center: new google.maps.LatLng(54.40315470224928, -2.555625),
+            mapTypeId: google.maps.MapTypeId.HYBRID,
+            disableDefaultUI: true,
+            mapTypeControl: false,
+            scrollwheel: false,
+            navigationControl: false,
+            mapTypeControl: false,
+            scaleControl: false,
+            draggable: false,
+            disableAutoPan: true
+        };
+
+        var cathedralsKmlLayer;
+        var kmlUrl = 'assets/kml/cathedrals.kml';
+
+        map = new google.maps.Map(document.getElementById("map_canvas"), mapOpts);
+        //  http://code.google.com/p/geoxml3/wiki/ParserReference
+        var myParser = new geoXML3.parser({
+            map: map,
+            zoom: false,
+            clickable: false,
+            infoWindowOptions: {clickable: false}, 
+            singleInfoWindow: true,
+            processStyles: true,
+            createMarker: addMyMarker
+        });
+
+        map.overlayMapTypes.insertAt(0, ukOverlay); 
+        myParser.parse([kmlUrl]);
+
+        function addMyMarker(placemark) {
+
+            var marker = myParser.createMarker(placemark);
+            //  pass the title through as a new variable
+            //  so we can remove the title off the marker.
+            //  we remove it as the default tooltip would
+            //  still show.
+            var text = marker.title;
+            //if(placemark.tweet != 'None') {
+            //  text += '\n\n\n';
+            //  text += placemark.tweet;
+            //}
+            // Attach tooltip to the DIV element
+            var tooltip = new CustomMarkerToolTip(map, text);
+            tooltip.addMarker(marker);
+            //tooltip.setCathedral(placemark);
+            //  and kill the default tooltip
+            marker.title = '';
+            //  and kill the infoWindow too as it's ugly!
+            marker.infoWindow.content = '';
+        }
+
+    }
+
+    </script>
+    
+    <script>
+        $(document).ready(function() {
+            init();
+        });
+    </script>
+
+{% endblock %}

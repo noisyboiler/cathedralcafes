@@ -1,0 +1,110 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'post_helper.tmpl' as helper with context %}
+{% import 'post_header.tmpl' as pheader with context %}
+{% import 'comments_helper.tmpl' as comments with context %}
+{% extends 'base.tmpl' %}
+
+{% block extra_head %}
+    {{ super() }}
+    {% if post.meta('keywords') %}
+    <meta name="keywords" content="{{ post.meta('keywords')|e }}">
+    {% endif %}
+    {% if post.description() %}
+    <meta name="description" itemprop="description" content="{{ post.description() }}">
+    {% endif %}
+    <meta name="author" content="{{ post.author() }}">
+    {% if post.prev_post %}
+        <link rel="prev" href="{{ post.prev_post.permalink() }}" title="{{ post.prev_post.title() }}" type="text/html">
+    {% endif %}
+    {% if post.next_post %}
+        <link rel="next" href="{{ post.next_post.permalink() }}" title="{{ post.next_post.title() }}" type="text/html">
+    {% endif %}
+    {{ helper.open_graph_metadata(post) }}
+    {{ helper.twitter_card_information(post) }}
+    {{ helper.meta_translations(post) }}
+{% endblock %}
+
+{% block header %}
+<div class="container church_article">
+    <header class="{{ post.meta('class') }} full">
+    <div class="copy">
+        <h1>{{ post.meta('church_name') }}</h1>
+    </div>
+    </header>
+    <div id="critique" class="article">
+
+        <div class="clearfix"></div>
+        <p class="summary">{{ post.meta('summary') }}</p>
+        <div class="clearfix"></div>
+
+        <div id="criterium">
+
+            <div class="criteria">
+            <img src="/assets/img/icons/cafe.png" alt="cafe tea-cup" />
+            <div class="info">
+            <p>{{ post.meta('cafe') or '?' }}</p>
+            </div>
+            </div>
+
+            <div class="criteria">
+            <img src="/assets/img/icons/dead-people.png" alt="grave stone!" />
+            <div class="info">
+            <p>{{ post.meta('dead_people') or '?' }}</p>
+            </div>
+            </div>
+
+            <div class="criteria">
+            <img src="/assets/img/icons/treasures.png" alt="treasure chest" />
+            <div class="info">
+            <p>{{ post.meta('treasures') or '?' }}</p>
+            </div>
+            </div>
+
+            <div class="criteria">
+            <img src="/assets/img/icons/architectural-features.png" alt="cathedral" />
+            <div class="info">
+            <p>{{ post.meta('architecture') or '?' }}</p>
+            </div>
+            </div>
+
+            <div class="criteria">
+            <img src="/assets/img/icons/stories.png" alt="?" />
+            <div class="info">
+            <p>{{ post.meta('trivia') or '?' }}</p>
+            </div>
+            </div> 
+
+        </div>
+
+    </div>
+
+</div>
+{% endblock%}
+
+{% block content %}
+<div class="container">
+
+<article class="post-{{ post.meta('type') }} h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article">
+
+    {{ pheader.html_post_header() }}
+    <div class="e-content entry-content" itemprop="articleBody text">
+        <h2>The Story</h2>
+    {{ post.text() }}
+    </div>
+    <aside class="postpromonav">
+    <nav>
+    {{ helper.html_pager(post) }}
+    </nav>
+    </aside>
+    {% if not post.meta('nocomments') and site_has_comments %}
+        <section class="comments">
+        <h2>{{ messages("Comments") }}</h2>
+        {{ comments.comment_form(post.permalink(absolute=True), post.title(), post._base_path) }}
+        </section>
+    {% endif %}
+    {{ helper.mathjax_script(post) }}
+</article>
+{{ comments.comment_link_script() }}
+
+</div>
+{% endblock %}

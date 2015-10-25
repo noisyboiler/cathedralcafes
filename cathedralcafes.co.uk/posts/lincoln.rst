@@ -7,6 +7,7 @@
 .. description: The official Cathedral Cafe visit to Lincoln cathedral
 .. type: text
 .. class: lincoln
+.. image: ./assets/img/churches/lincoln.jpg
 .. summary: A feast of architecture, with many treasures and stories - but light on dead people
 .. architecture: 1st!!!
 .. dead_people: 6th

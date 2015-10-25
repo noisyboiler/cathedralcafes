@@ -7,6 +7,7 @@
 .. description: The official Cathedral Cafe visit to Norwich cathedral
 .. type: text
 .. class: norwich
+.. image: ./assets/img/churches/norwich.jpg
 .. summary: England's most complete Norman cathedral
 .. architecture: 2nd!!
 .. dead_people: 2nd!!

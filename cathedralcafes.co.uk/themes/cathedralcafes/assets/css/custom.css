@@ -1,4 +1,10 @@
 /* Global Styles */
+
+@font-face {
+    font-family: cathedral;
+    src: url("./fonts/We Pray.ttf");
+}
+
 html, body {
 }
 
@@ -17,11 +23,16 @@ h2 {
     line-height: 38px;
 }
 
+div.section h2 {
+    font-family: cathedral;
+    font-size: 56px;
+    line-height: 58px;
+}
+
 h3 {
     font-size: 70px;
     color: white;
 }
-
 
 .bg-primary {
     color: #fff;
@@ -86,25 +97,74 @@ aside.callout {
 .church-section {
     background: url('./img/watercolor-paper.jpg') 0 0 repeat;
     text-align: center;
+    padding-top: 0px;
 }
 
 .church-section article {
     margin: 0 auto;
-    background: red url('./img/watercolor-paper.jpg') 0 0 repeat;
+    background: url('./img/watercolor-paper.jpg') 0 0 repeat;
     text-align: center;
-    width: 1000px;
+    width: 100%;
     height: 100%;
 }
 
-.church-section article h3 {
-    padding: 40px;
-    margin: 0;
-    color: black;
-    text-align: center;
+.church-section article header {
+    position: relative;
+    display: block;
+    clear: both;
+    height: 1200px;
 }
 
+.church-section article.guildford header {
+    background: url(./img/guildford.jpg) no-repeat center center scroll;
+}
+
+.church-section article.southwark header {
+    background: url(./img/southwark.jpg) no-repeat center center scroll;
+}
+
+.church-section article.chichester header {
+    background: url(./img/chichester.jpg) no-repeat center center scroll;
+}
+
+.church-section article header div.city {
+    position: relative;
+    display: block;
+    width: 700px;
+    height: 700px;
+    margin: 0px;
+    background: url(./img/star.png) no-repeat center center;
+    overflow: hidden;
+}
+
+.church-section article header div.city h2 {
+    position: relative;
+    top: 250px;
+    left: 40px;
+    font-size: 50px;    
+}
+
+.church-section article h3 {
+    z-index: 10;
+    padding: 40px 0 0 0;
+    margin: 0px;
+    color: black;
+    text-align: center;
+    font-size: 140px;
+    line-height: 170px;
+    font-family: cathedral;
+}
+
+.church-section article header svg {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+
+
 .church-section article p {
-    padding: 40px 0;
+    padding: 20px 200px;
     margin: 0;
     color: black;
     font-size: 22px;
@@ -115,12 +175,14 @@ aside.callout {
     list-style-type: none;
     text-align: center;
     margin: 0;
-    padding: 0;
+    padding: 20px 200px;
 }
 
 .church-section article ul li {
     margin: 0;
     padding: 0;
-    font: inherit;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    line-height: 28px;
 }
 

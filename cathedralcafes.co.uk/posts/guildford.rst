@@ -7,12 +7,14 @@
 .. description: The official Cathedral Cafe visit to Guildford cathedral
 .. type: text
 .. class: guildford
+.. image: ./assets/img/churches/guildford.jpg
 .. summary: Architecturally and technologically England's most modern cathedral
 .. architecture: 5th
 .. dead_people: last
 .. cafe: 6th
 .. treasures: last
 .. trivia: 4th
+.. musts: <p><span class="strong">Must-Dos:</span> <i>Watch The Omen, find the royal bricks, drink tea.</i></p>
 
 
 .. _Guildford Refectory: http://guildfordrefectory.co.uk/
@@ -26,8 +28,6 @@ Guildford
 	<div class="teaser">
 
 	<p>England's most modern cathedral in a youthful 1927 diocese. Along with the Queen, one of team CC's grandmother owns a brick here.<p>
-
-	<p><span class="strong">Must-Dos:</span> <i>Watch The Omen, find the royal bricks, drink tea.</i></p>
 
 .. raw:: html
 

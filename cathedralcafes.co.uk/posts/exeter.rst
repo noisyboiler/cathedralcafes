@@ -8,6 +8,7 @@
 .. description: The official Cathedral Cafe visit to Exeter cathedral
 .. type: text
 .. class: exeter
+.. image: ./assets/img/churches/exeter.jpg
 .. summary: Striking architecture and the cafe that other churches dream of
 .. architecture: 4th
 .. dead_people: 4th

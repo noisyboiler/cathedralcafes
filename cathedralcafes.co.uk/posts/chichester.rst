@@ -8,6 +8,7 @@
 .. description: The official Cathedral Cafe visit to Chichester cathedral
 .. type: text
 .. class: chichester
+.. image: ./assets/img/churches/chichester.jpg
 .. summary: The most typical of English cathedrals; soundtrack: The Planets
 .. architecture: 6th
 .. dead_people: 1st!!!

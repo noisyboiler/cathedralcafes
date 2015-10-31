@@ -68,7 +68,12 @@ aside.callout {
     background: url(./img/england.jpeg) no-repeat center center scroll;
 }
 
-/* About */
+aside.callout p {
+    padding: 0px 40px;
+    font-size: 80px;
+    line-height: 84px;
+    font-weight: bold;
+}
 
 
 /* Criteria */

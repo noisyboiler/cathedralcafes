@@ -2,10 +2,11 @@
 
 @font-face {
     font-family: cathedral;
-    src: url("./fonts/We Pray.ttf");
+    src: url("./fonts/Cathedral St.ttf");
 }
 
 html, body {
+    color: black;
 }
 
 aside {
@@ -14,17 +15,37 @@ aside {
 article {
 }
 
-h1, h2, h3, h4, p {
-    color: black;
+.header {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: url(../img/header-background.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center top;
 }
 
-h2 {
-    font-size: 36px;
-    line-height: 38px;
+
+.header .text-vertical-center h1 {
+    margin: 0;
+    padding: 40px 40px 0 40px;
+    font-weight: 100;
+    font-family: cathedral;
+    font-size: 120px;
+    font-size: 10.7vw;
+}
+
+
+.header p {
+    text-align: left;
+    font-size: 1.6vw;
+    padding: 0px 0px 0px 40px;
 }
 
 div.section h2 {
-    font-family: cathedral;
     font-size: 56px;
     line-height: 58px;
 }
@@ -96,6 +117,7 @@ aside.callout {
 
 .church-section {
     background: url('./img/watercolor-paper.jpg') 0 0 repeat;
+    background: url('./img/concrete_wall.png') 0 0 repeat;
     text-align: center;
     padding-top: 0px;
 }
@@ -103,64 +125,78 @@ aside.callout {
 .church-section article {
     margin: 0 auto;
     background: url('./img/watercolor-paper.jpg') 0 0 repeat;
+    background: url('./img/concrete_wall.png') 0 0 repeat;
     text-align: center;
     width: 100%;
     height: 100%;
 }
 
 .church-section article header {
-    position: relative;
     display: block;
-    clear: both;
-    height: 1200px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    min-height: 1000px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center top;
+}
+
+.church-section article header h2 {
+    color: white;
+    line-height: 304px;
+    font-family: cathedral;
+    margin: 0;
+    padding: 40px 40px;
+    font-size: 180px;
+    font-size: 14.7vw;
 }
 
 .church-section article.guildford header {
-    background: url(./img/guildford.jpg) no-repeat center center scroll;
+    background-image: url(./img/guildford.jpg);
 }
 
 .church-section article.southwark header {
-    background: url(./img/southwark.jpg) no-repeat center center scroll;
+    background-image: url(./img/southwark.jpg);
 }
 
 .church-section article.chichester header {
-    background: url(./img/chichester.jpg) no-repeat center center scroll;
+    background-image: url(./img/chichester.jpg);
 }
 
-.church-section article header div.city {
-    position: relative;
-    display: block;
-    width: 700px;
-    height: 700px;
-    margin: 0px;
-    background: url(./img/star.png) no-repeat center center;
-    overflow: hidden;
+.church-section article.norwich header {
+    background-image: url(./img/norwich.jpg);
 }
 
-.church-section article header div.city h2 {
-    position: relative;
-    top: 250px;
-    left: 40px;
-    font-size: 50px;    
+.church-section article.exeter header {
+    background-image: url(./img/exeter.jpg);
+}
+
+.church-section article.lincoln header {
+    background-image: url(./img/lincoln.jpg);
+}
+
+.church-section article.rochester header {
+    background-image: url(./img/rochester.jpg);
+}
+
+.church-section article div.section h2 {
+    font-family: cathedral;
 }
 
 .church-section article h3 {
     z-index: 10;
-    padding: 40px 0 0 0;
+    padding: 40px 100px 0 100px;
     margin: 0px;
     color: black;
     text-align: center;
-    font-size: 140px;
-    line-height: 170px;
+    font-size: 80px;
+    line-height: 82px;
     font-family: cathedral;
 }
 
-.church-section article header svg {
-    position: absolute;
-    z-index: 1;
-    top: 0;
-    left: 0;
-}
 
 
 .church-section article p {

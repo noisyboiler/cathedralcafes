@@ -60,9 +60,9 @@ Trivia
 ~~~~~~
 
 - In 1130 a fire destroyed Rochester pretty much entirely. What was salvaged was probably lost in subsequent blazes in 1137 and 1179. Fire safety record: appauling.
-- Unruly Monks bickered and feuded with the Canterbury monks, warred against the locals of Rochester, and fought for every pig and goose in the annual xenium feast.
+- Unruly Monks bickered and feuded with the Canterbury monks, warred against the locals of Rochester, and fought for every pig and goose in the annual xenium feaSt
 - Rochester's foundations are the second oldest in the country
-- The Bishop's Xenium - the Bishop should take the Xenium on the feast of St. Andrew wherever he might be (but what is it???)
+- The Bishop's Xenium - the Bishop should take the Xenium on the feast of St Andrew wherever he might be (but what is it???)
 - It is said the towns of East Kent held out against William the Conqueror longer than their neighbours - the "Men of Kent / Kentish Men" thing.
 
 Treasures

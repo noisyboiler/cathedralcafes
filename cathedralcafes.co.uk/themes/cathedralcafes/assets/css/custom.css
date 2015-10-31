@@ -5,14 +5,21 @@
     src: url("./fonts/Cathedral St.ttf");
 }
 
+@font-face {
+    font-family: written;
+    src: url("./fonts/A little sunshine.ttf");
+}
+
 html, body {
     color: black;
 }
 
-aside {
+article {
 }
 
-article {
+p, li, a {
+    font-family: written;
+    font-weight: 500;
 }
 
 .header {
@@ -41,8 +48,19 @@ article {
 
 .header p {
     text-align: left;
-    font-size: 1.6vw;
+    font-size: 1.7vw;
     padding: 0px 0px 0px 40px;
+    margin-top: -20px;
+}
+
+p.lead.large {
+    font-size: 40px;
+    line-height: 44px;
+}
+
+p.lead {
+    font-size: 28px;
+    line-height: 30px;
 }
 
 div.section h2 {
@@ -62,17 +80,35 @@ h3 {
     background: url('./img/concrete_wall.png') 0 0 repeat-x;
 }
 
-
 /* callouts */
 aside.callout {
     background: url(./img/england.jpeg) no-repeat center center scroll;
+    min-height: 600px;
+    height: auto;
 }
 
-aside.callout p {
-    padding: 0px 40px;
+aside.callout.fact {
+    background: white;
+    background: url('./img/concrete_wall.png') 0 0 repeat-x;
+    min-height: 200px;
+    height: 200px;
+}
+
+aside.callout.fact h4 {
+    padding: 20px 0 0 0;
+    font-size: 84px;
+    line-height: 88px;
+    font-family: written;
+    font-weight: bold;
+    color: black;
+}
+
+aside.callout.fact p {
+    padding: 20px 100px 20px 100px;
     font-size: 80px;
     line-height: 84px;
-    font-weight: bold;
+    font-family: written;
+    color: black;
 }
 
 
@@ -127,13 +163,34 @@ aside.callout p {
     padding-top: 0px;
 }
 
+.church-section aside {
+    background: black;
+    margin: 0;
+    padding: 0;
+}
+
+.church-section aside  h2 {
+    color: white;
+    line-height: 304px;
+    font-family: cathedral;
+    margin: 0;
+    padding: 40px 40px;
+    font-size: 180px;
+    font-size: 15.7vw;
+}
+
 .church-section article {
     margin: 0 auto;
-    background: url('./img/watercolor-paper.jpg') 0 0 repeat;
     background: url('./img/concrete_wall.png') 0 0 repeat;
     text-align: center;
     width: 100%;
     height: 100%;
+    padding-bottom: 20px;
+}
+
+
+.church-section article .strong {
+    font-weight: bold;
 }
 
 .church-section article header {
@@ -156,7 +213,7 @@ aside.callout p {
     margin: 0;
     padding: 40px 40px;
     font-size: 180px;
-    font-size: 14.7vw;
+    font-size: 15.7vw;
 }
 
 .church-section article.guildford header {
@@ -222,7 +279,6 @@ aside.callout p {
 .church-section article ul li {
     margin: 0;
     padding: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 24px;
     line-height: 28px;
 }

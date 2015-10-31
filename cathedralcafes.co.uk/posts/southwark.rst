@@ -1,6 +1,6 @@
 .. title: The Southwark Adventure
 .. location: Southwark
-.. church_name: Cathedral and Collegiate Church of St. Saviour and St. Mary
+.. church_name: Cathedral and Collegiate Church of St Saviour and St Mary
 .. slug: southwark
 .. date: 2014-10-18 16:00:00 UTC+0:00
 .. tags: cathedral, southwark, tea

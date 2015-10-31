@@ -34,7 +34,7 @@
         <div class="text-vertical-center">
             <h1>Cathedral Cafes</h1>
         </div>
-        <p>A Quick Trip Around All Of Our Church Of England Cathedral Cafes</p>
+        <p>A Quick Trip Around Our Church Of England Cathedral Cafes</p>
     </header>
 
     <!-- About -->
@@ -43,7 +43,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
 
-                    <h2>Cathedral Cafes puts church against church in an epic battle of cafes!</h2>
+                    <p class="lead large">Cathedral Cafes pits church against church in an epic battle of cafes!</p>
                     <p class="lead">Each church is <i>brutally</i> critiqued on fundamental criteria such as their <a href="galleries/cakes/">cakes</a>, the quality of their dead people and on the trivia we learn on the day. The result is a compelling <a href=".#scores">league table</a> that has gripped the nation! So, which church has the "†-factor"?</p>
 
                 </div>
@@ -141,11 +141,13 @@
     {% for post in posts %}
     <section class="church-section">
 
+        <aside>
+            <h2>{{ post.meta('location') }}</h2>
+        </aside>
+
         <article class="h-entry post-{{ post.meta('type') }} {{ post.meta('class') }}">
 
         <header>
-
-            <h2>{{ post.meta('location') }}</h2>
 
         </header>
     
@@ -157,15 +159,13 @@
 
         </article>
 
-    </section>
+        <aside class="callout fact">
+            <div class="text-vertical-center">
+                <p><script>document.write(facts[{{loop.index}}]);</script></p>
+            </div>
+        </aside>
 
-    <aside class="callout">
-        <div class="text-vertical-center">
-            <p>
-                <script>document.write(facts[{{loop.index}}]);</script>
-            </p>
-        </div>
-    </aside>
+    </section>
 
     {% endfor %}
 

@@ -24,7 +24,7 @@ p, li, a {
 
 aside  {
     min-height: 400px;
-    background: url('./img/england.jpeg') no-repeat center center scroll;
+    background: url('./img/countryside.jpg') no-repeat top center scroll;
 }
 
 .header {

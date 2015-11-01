@@ -15,6 +15,7 @@
 .. treasures: 1st!!!
 .. trivia: 1st!!!
 .. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>A Roof tour, find some Imps, drink tea.</i></p>
+.. score: 57
 
 =======
 Lincoln
@@ -50,8 +51,12 @@ Cloisters Cafe
 The Red Lion of the cafe circuit, at Lincoln Cathedral you'll drink at The Cloisters - 
 small, tidy, calm and well presented. Solid wood furniture. Nice colour scheme. The tea was good. However, cakes were served in plastic wrapping.
 
+#7th
+
 Trivia
 ~~~~~~
+
+#1st
 
 - "I have always held and am prepared against all evidence to maintain that the Cathedral of Lincoln is out and out the most precious piece of architecture in the British Isles and roughly speaking worth any two other cathedrals we have." John Ruskin, 1819-1900.
 - Once the tallest building in the world! stealing the honour from Giza.
@@ -62,6 +67,8 @@ Trivia
 Treasures
 ~~~~~~~~~
 
+#1st!
+
 - Magna Carta
 - The (Sir Christopher) Wren Library
 
@@ -70,8 +77,12 @@ Dead People
 
 - Usual den of saints
 
+#5th
+
 Architecture
 ~~~~~~~~~~~~
+
+#1st!
 
 - The Roof is just a lid - a giant structure that stays in place purely because of it's humongous size and weight.
 - The Western Towers resemble a fortress

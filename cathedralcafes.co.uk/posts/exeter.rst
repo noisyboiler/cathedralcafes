@@ -16,6 +16,7 @@
 .. treasures: 5th
 .. trivia: 3rd!
 .. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Admire the twin towers, find Hickery Dickery clock, drink tea.</i></p>
+.. score: 54
 
 ================
 Exeter
@@ -48,8 +49,12 @@ Clositers Cafe
 
 This cafe served Doom Bar straight from the barrel — heavenly. Also a cracking cup of tea here. Plenty of *home-made* cakes — a must for the respect of CC. The Devon cream-teas were delicious and had a very generous serving of clotted cream.
 
+#1st!
+
 Trivia
 ~~~~~~
+
+#3rd
 
 - History of maurauding Norsemen.
 - Hickery Dickery Dock nursery rhyme
@@ -57,6 +62,8 @@ Trivia
 
 Treasures
 ~~~~~~~~~
+
+#5th
 
 - Astronomical clock
 - Impressive organ
@@ -71,8 +78,12 @@ Dead People
 - The British General who imaginatively canme up with the idea of a concentration camp.
 - General John Simcoe - He founded Toronto - although he christened it York.
 
+#4th
+
 Architecture
 ~~~~~~~~~~~~
+
+#4th
 
 - Longest uninterrupted vaulted ceiling in the whole world
 - The ONLY cathedral with two squres towers

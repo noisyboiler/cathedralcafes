@@ -1,3 +1,6 @@
+total = 41
+
+
 ** Chichester **
 
 Chichester, "the most typical English Cathedral", was a well equipped cafe, has it's own treasury and accommodates one of our most famous composers.

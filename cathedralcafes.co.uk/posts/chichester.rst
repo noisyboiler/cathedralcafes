@@ -16,6 +16,7 @@
 .. treasures: 2nd!!
 .. trivia: last
 .. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Find Holst's corpse, wait for some falcons to fly, drink tea.</i></p>
+.. score: 41
 
 
 ================
@@ -39,10 +40,14 @@ This cathedral is just a few miles from the sea, and has long been a landmark fo
 Clositers Cafe
 ~~~~~~~~~~~~~~
 
+#3rd
+
 All round very professional, modern cafe. Nice spacious garden; neat and tidy, comfortable and relaxing. Excellent home made cakes.
 
 Trivia
 ~~~~~~
+
+#7th
 
 - The building has a history peppered by disasters such as the collapse of the steeple.
 - A family of peregrine falcons nest in the roof and feature on the tea towels sold in the little shop.
@@ -54,6 +59,8 @@ Trivia
 Treasures
 ~~~~~~~~~
 
+#2nd
+
 - Distinctive and rare Norman and Gothic sculptures such as the "Arundel tomb", 
 - Fragment of 2nd century Roman Mosaic
 - The usual militaria that clutters English cathedrals 
@@ -63,11 +70,15 @@ Treasures
 Dead People
 ~~~~~~~~~~~
 
+#1st!
+
 - Gustav Theodore Holst, renouned throughout the planets
 - Richard FitzAlan, 10th Earl of Arundel
 
 Architecture
 ~~~~~~~~~~~~
+
+#6th
 
 - Founded in 1075, Chichester displays both Norman and Gothic architecture
 - The only cathedral with a free-standing bell tower

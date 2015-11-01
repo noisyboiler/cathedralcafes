@@ -15,6 +15,7 @@
 .. treasures: last
 .. trivia: 4th
 .. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Watch The Omen, find the royal bricks, drink tea.</i></p>
+.. score: 40
 
 
 .. _Guildford Refectory: http://guildfordrefectory.co.uk/
@@ -49,12 +50,16 @@ Finally, an odd bit of trivia: movie fans will recognise Guildford cathedral fro
 Guildford Refectory
 ~~~~~~~~~~~~~~~~~~~
 
+#6th
+
 Featuring probably the CofE's finest cathedral cafes website, this service was closed on our visit. This hit us *very* hard and there were tears and speaking in tongues. However, the bravest two of the CC roadshow returned the following week - and for great reward! We had a fine lunch of cake and tea. This is not just a cafe though, it's a venue - it will have seen much wedding fuss.
 
 Be warned - this is a small cathedral and not a "big gun" so the cafe and gift shop have hours to suit - don't get caught out like we did!!
 
 Trivia
 ~~~~~~
+
+#4th
 
 - This is the church from the 1961 film The Omen - yes! That's true.
 - Designed by the Englishman Sir Edward Brantwood Maufe
@@ -71,10 +76,12 @@ Trivia
 - 1500 hand made "kneelers"
 - Guildford is a town and not a city - well done Guildford
 - There is a 12th century synagougue (now closed) on the nearby high street
-- Asbestos roof 
+- Asbestos roof
 
 Treasures
 ~~~~~~~~~
+
+#7th
 
 - Has a whopping 12 bells.
 - Bricks with Royal signatures
@@ -83,11 +90,14 @@ Treasures
 Dead People
 ~~~~~~~~~~~
 
+#7th
+
 - Not yet, but Guildford has not had much time to collect dead bodies.
 
 Architecture
 ~~~~~~~~~~~~
 
+#6th
+
 - Modern. Really different to any other cathedral.
 - Clay bricks made from the hill that it rests on.
-

@@ -16,7 +16,7 @@
 .. treasures: 2nd!!
 .. trivia: 6th
 .. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Find the Wheel Of Fortune, read some (slightly bitter) Dickens trivia, drink tea.</i></p>
-
+.. score: 43
 
 ================
 Rochester
@@ -54,8 +54,12 @@ There are home-made cakes on the counter, a simple menu and a queue holding as m
 
 We visited on a very busy day (it being the December Dickensian Festival) and so our experience of the main café may not be typical: we were served tea in cardboard and, while we accept some people like milky tea, it was weak. This has affected our scoring, perhaps unfairly. Luckily, a pop-up cafe appeared in the Crypt for festival day where the tea was in cups and was as strong as you liked!
 
+#4th
+
 Trivia
 ~~~~~~
+
+#6th
 
 - In 1130 a fire destroyed Rochester pretty much entirely. What was salvaged was probably lost in subsequent blazes in 1137 and 1179. Fire safety record: appauling.
 - Unruly Monks bickered and feuded with the Canterbury monks, warred against the locals of Rochester, and fought for every pig and goose in the annual xenium feaSt
@@ -65,6 +69,8 @@ Trivia
 
 Treasures
 ~~~~~~~~~
+
+#2nd
 
 - Wheel of Fortune painting, bearing wounds from the English civil war
 - 2004 Fresco, quite popular it is, or maybe it's the gift shop that is.
@@ -76,11 +82,15 @@ Treasures
 Dead People
 ~~~~~~~~~~~
 
+#5th
+
 - William of Perth, a Scottish corpse with healin powers
 - Charles Dickens’ ghost - Dickens was actually deemed too famous to rest by the Medway and his body was carted off to  Westminster Abbey.
 
 Architecture
 ~~~~~~~~~~~~
+
+#3rd
 
 - “romanesque” or “pre-Gothic” European architecture
 - Round arches

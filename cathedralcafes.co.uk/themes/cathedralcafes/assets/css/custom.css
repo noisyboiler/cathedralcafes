@@ -22,6 +22,11 @@ p, li, a {
     font-weight: 500;
 }
 
+aside  {
+    min-height: 600px;
+    background: url('./img/england.jpeg') 0 0 repeat-x;
+}
+
 .header {
     display: block;
     position: relative;
@@ -104,6 +109,7 @@ aside.callout.scores {
 aside.callout.scores h2 {
     padding: 0;
     margin: 0;
+    font-size: 140px;
 }
 
 aside.callout.scores span {

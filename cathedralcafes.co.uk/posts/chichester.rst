@@ -15,6 +15,7 @@
 .. cafe: 3rd!
 .. treasures: 2nd!!
 .. trivia: last
+.. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Find Holst's corpse, wait for some falcons to fly, drink tea.</i></p>
 
 
 ================
@@ -26,10 +27,6 @@ Chichester
 	<div class="teaser">
 
 	<p>Chichester, "the most typical English Cathedral", was a well equipped cafe and accommodates one of our most famous composers. Found on the river Lavant, just beneath the South Downs and opposite The House of Frasier, we have an 11th century church with Roman and Anglo-Saxon *and* Norman footnotes.</p>
-
-	<p><span class="strong"><i>Must-Dos:</span> Find Holst's corpse, wait for some falcons to fly, drink tea.</i></p>
-
-.. raw:: html
 
 	</div>
 

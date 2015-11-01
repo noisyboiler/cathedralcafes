@@ -14,7 +14,7 @@
 .. cafe: 7th
 .. treasures: 1st!!!
 .. trivia: 1st!!!
-
+.. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>A Roof tour, find some Imps, drink tea.</i></p>
 
 =======
 Lincoln
@@ -25,10 +25,6 @@ Lincoln
 	<div class="teaser">
 
 	<p>An architectural treat with 1000 years of history - this building stands out amongst our Cathedrals. Also features Imps.</p>
-
-	<p><span class="strong">Must-Dos:</span> <i>Do a Roof tour, find some Imps, drink tea.</i></p>
-
-.. raw:: html
 
 	</div>
 

@@ -83,24 +83,30 @@ h3 {
 /* callouts */
 aside.callout {
     background: url(./img/england.jpeg) no-repeat center center scroll;
-    min-height: 600px;
+    min-height: 200px;
     height: auto;
+    padding-bottom: 40px;
+}
+
+aside.callout h2 {
+    padding: 0;
+    margin: 0;
 }
 
 aside.callout.fact {
-    background: white;
     background: url('./img/concrete_wall.png') 0 0 repeat-x;
+    background: black;
     min-height: 200px;
     height: 200px;
 }
 
-aside.callout.fact h4 {
-    padding: 20px 0 0 0;
-    font-size: 84px;
-    line-height: 88px;
+aside.callout.scores span {
+    margin: 0;
+    font-size: 124px;
+    line-height: 128px;
     font-family: written;
     font-weight: bold;
-    color: black;
+    color: white;
 }
 
 aside.callout.fact p {
@@ -108,9 +114,8 @@ aside.callout.fact p {
     font-size: 80px;
     line-height: 84px;
     font-family: written;
-    color: black;
+    color: white;
 }
-
 
 /* Criteria */
 
@@ -194,6 +199,7 @@ aside.callout.fact p {
     width: 100%;
     height: 100%;
     padding-bottom: 20px;
+        background: white;
 }
 
 

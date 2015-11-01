@@ -14,7 +14,7 @@
 .. cafe: 6th
 .. treasures: last
 .. trivia: 4th
-.. musts: <p><span class="strong">Must-Dos:</span> <i>Watch The Omen, find the royal bricks, drink tea.</i></p>
+.. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Watch The Omen, find the royal bricks, drink tea.</i></p>
 
 
 .. _Guildford Refectory: http://guildfordrefectory.co.uk/

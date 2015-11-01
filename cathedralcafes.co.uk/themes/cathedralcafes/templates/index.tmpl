@@ -141,7 +141,7 @@
     {% for post in posts %}
     <section class="church-section">
 
-        <aside>
+        <aside class="location">
             <h2>{{ post.meta('location') }}</h2>
         </aside>
 
@@ -151,8 +151,10 @@
 
         </header>
     
-        <h3>{{ post.meta('church_name') }}</h3>
-
+        <aside class="church_name">
+            <h3>{{ post.meta('church_name') }}</h3>
+        </aside>
+        
         {{ post.meta('musts') }}
 
         {{ post.text(teaser_only=False) }}
@@ -161,7 +163,14 @@
 
         <aside class="callout fact">
             <div class="text-vertical-center">
-                <p><script>document.write(facts[{{loop.index}}]);</script></p>
+                <p>
+                <script>
+                    var diocese = "{{ post.meta('location') }}";
+                    var church_facts = facts[diocese];
+                    var fact = getMeRandomElements(church_facts, 1);
+                    document.write(fact);
+                </script>
+                </p>
             </div>
         </aside>
 

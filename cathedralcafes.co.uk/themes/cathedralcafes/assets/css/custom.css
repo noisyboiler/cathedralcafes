@@ -163,13 +163,20 @@ aside.callout.fact p {
     padding-top: 0px;
 }
 
-.church-section aside {
-    background: black;
+.church-section aside.location {
     margin: 0;
     padding: 0;
+    background: url('./img/glass-04.jpg') 0 0 repeat;
 }
 
-.church-section aside  h2 {
+.church-section aside.church_name {
+    margin: 0;
+    padding: 0;
+    background: white;
+    padding-bottom: 20px;
+}
+
+.church-section aside h2 {
     color: white;
     line-height: 304px;
     font-family: cathedral;

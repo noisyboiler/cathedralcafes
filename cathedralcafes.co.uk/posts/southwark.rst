@@ -15,7 +15,7 @@
 .. cafe: 5th
 .. treasures: 6th
 .. trivia: 5th
-.. musts: <p><span class="strong">Must-Dos:</span> <i>Find the 10th century stones, find the memorial to W. Shakespeare, drink tea.</i></p>
+.. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Find the 10th century stones, find the memorial to W. Shakespeare, drink tea.</i></p>
 
 .. _Marchioness disaster: http://en.wikipedia.org/wiki/Marchioness_disaster
 

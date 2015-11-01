@@ -47,9 +47,9 @@ Exeter's cafe is a real find. The trio struggled to find anything to fault in th
 Clositers Cafe
 ~~~~~~~~~~~~~~
 
-This cafe served Doom Bar straight from the barrel — heavenly. Also a cracking cup of tea here. Plenty of *home-made* cakes — a must for the respect of CC. The Devon cream-teas were delicious and had a very generous serving of clotted cream.
-
 #1st!
+
+This cafe served Doom Bar straight from the barrel — heavenly. Also a cracking cup of tea here. Plenty of *home-made* cakes — a must for the respect of CC. The Devon cream-teas were delicious and had a very generous serving of clotted cream.
 
 Trivia
 ~~~~~~
@@ -75,10 +75,10 @@ Treasures
 Dead People
 ~~~~~~~~~~~
 
+#4th
+
 - The British General who imaginatively canme up with the idea of a concentration camp.
 - General John Simcoe - He founded Toronto - although he christened it York.
-
-#4th
 
 Architecture
 ~~~~~~~~~~~~

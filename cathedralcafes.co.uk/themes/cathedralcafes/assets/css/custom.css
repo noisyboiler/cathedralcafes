@@ -75,18 +75,15 @@ h3 {
 
 .bg-primary {
     color: #fff;
-    /* original blue
-    background-color: #337ab7; */
     background: url('./img/concrete_wall.png') 0 0 repeat-x;
 }
 
 /* callouts */
 aside.callout {
-    background: url(./img/england.jpeg) no-repeat center center scroll;
     min-height: 200px;
     height: auto;
     padding-bottom: 40px;
-    background: url('./img/glass-04.jpg') 0 0 repeat;
+    background: url('./img/concrete_wall.png') 0 0 repeat-x;
 }
 
 aside.callout h2 {
@@ -98,6 +95,10 @@ aside.callout.fact {
     background: black;
     min-height: 200px;
     height: 200px;
+}
+
+aside.callout.scores {
+
 }
 
 aside.callout.scores h2 {
@@ -123,41 +124,6 @@ aside.callout.fact p {
     color: white;
 }
 
-/* Criteria */
-
-.col-xs-15,
-.col-sm-15,
-.col-md-15,
-.col-lg-15 {
-    position: relative;
-    min-height: 1px;
-    padding-right: 10px;
-    padding-left: 10px;
-}
-
-.col-xs-15 {
-    width: 20%;
-    float: left;
-}
-@media (min-width: 768px) {
-.col-sm-15 {
-        width: 20%;
-        float: left;
-    }
-}
-@media (min-width: 992px) {
-    .col-md-15 {
-        width: 20%;
-        float: left;
-    }
-}
-@media (min-width: 1200px) {
-    .col-lg-15 {
-        width: 20%;
-        float: left;
-    }
-}
-
 /* map */
 
 #map {
@@ -168,8 +134,6 @@ aside.callout.fact p {
 /* churches */
 
 .church-section {
-    background: url('./img/watercolor-paper.jpg') 0 0 repeat;
-    background: url('./img/concrete_wall.png') 0 0 repeat;
     text-align: center;
     padding-top: 0px;
 }
@@ -177,7 +141,8 @@ aside.callout.fact p {
 .church-section aside.location {
     margin: 0;
     padding: 0;
-    background: url('./img/glass-04.jpg') 0 0 repeat;
+    background: black;
+    background: url('./img/stained-glass.png') 0 0 repeat-x;
     background: black;
 }
 
@@ -201,12 +166,11 @@ aside.callout.fact p {
 
 .church-section article {
     margin: 0 auto;
-    background: url('./img/concrete_wall.png') 0 0 repeat;
     text-align: center;
     width: 100%;
     height: 100%;
     padding-bottom: 20px;
-        background: white;
+    background: white;
 }
 
 
@@ -238,31 +202,31 @@ aside.callout.fact p {
 }
 
 .church-section article.guildford header {
-    background-image: url(./img/guildford.jpg);
+    background-image: url(./img/guildford-web.jpg);
 }
 
 .church-section article.southwark header {
-    background-image: url(./img/southwark.jpg);
+    background-image: url(./img/southwark-web.jpg);
 }
 
 .church-section article.chichester header {
-    background-image: url(./img/chichester.jpg);
+    background-image: url(./img/chichester-web.jpg);
 }
 
 .church-section article.norwich header {
-    background-image: url(./img/norwich.jpg);
+    background-image: url(./img/norwich-web.jpg);
 }
 
 .church-section article.exeter header {
-    background-image: url(./img/exeter.jpg);
+    background-image: url(./img/exeter-web.jpg);
 }
 
 .church-section article.lincoln header {
-    background-image: url(./img/lincoln.jpg);
+    background-image: url(./img/lincoln-web.jpg);
 }
 
 .church-section article.rochester header {
-    background-image: url(./img/rochester.jpg);
+    background-image: url(./img/rochester-web.jpg);
 }
 
 .church-section article div.section h2 {

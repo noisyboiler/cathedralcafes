@@ -23,7 +23,7 @@ p, li, a {
 }
 
 aside  {
-    min-height: 600px;
+    min-height: 200px;
     background: url('./img/england.jpeg') 0 0 repeat-x;
 }
 
@@ -150,6 +150,8 @@ aside.callout.fact p {
     background: black;
     background: url('./img/stained-glass.png') 0 0 repeat-x;
     background: black;
+    height: 350px;
+    min-height: 350px;
 }
 
 .church-section aside.church_name {

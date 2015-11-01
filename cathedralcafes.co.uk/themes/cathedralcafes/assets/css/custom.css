@@ -86,6 +86,7 @@ aside.callout {
     min-height: 200px;
     height: auto;
     padding-bottom: 40px;
+    background: url('./img/glass-04.jpg') 0 0 repeat;
 }
 
 aside.callout h2 {

@@ -1,11 +1,9 @@
 .. _Nikola: https://getnikola.com/
 
-
 cathedralcafes
 ==============
 
 Cathedral Cafes is a basically a fancy Python blog app built on the Nikola_ static site generator.
-
 
 Installation
 ------------

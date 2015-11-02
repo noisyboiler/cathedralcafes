@@ -15,7 +15,9 @@
 .. treasures: 1st!!!
 .. trivia: 1st!!!
 .. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>A Roof tour, find some Imps, drink tea.</i></p>
-.. score: 57
+.. score: 68
+.. position: 2nd
+
 
 =======
 Lincoln

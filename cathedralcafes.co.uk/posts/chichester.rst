@@ -16,7 +16,8 @@
 .. treasures: 2nd!!
 .. trivia: last
 .. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Find Holst's corpse, wait for some falcons to fly, drink tea.</i></p>
-.. score: 41
+.. score: 48
+.. position: 5th
 
 
 ================

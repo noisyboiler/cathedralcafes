@@ -16,7 +16,8 @@
 .. treasures: 6th
 .. trivia: 5th
 .. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Find the 10th century stones, find the memorial to W. Shakespeare, drink tea.</i></p>
-.. score: 50
+.. score: 45
+.. position: 6th
 
 .. _Marchioness disaster: http://en.wikipedia.org/wiki/Marchioness_disaster
 

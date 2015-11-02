@@ -15,7 +15,8 @@
 .. treasures: 3rd!
 .. trivia: 2nd!!
 .. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Find the pre-reformation wall paintings, read the bosses' stories, drink tea.</i></p>
-.. score: 60
+.. score: 70
+.. position: 1st
 
 =======
 Norwich

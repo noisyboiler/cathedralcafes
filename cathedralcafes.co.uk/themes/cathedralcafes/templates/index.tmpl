@@ -26,13 +26,13 @@
         </div>
         <!-- /.container -->
     </section>
-
+    <!--
     <section id="map" class="bg-primary">
 
         <iframe width='100%' height='750px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/noisyboiler.no4n9p01/attribution,geocoder,share.html?access_token=pk.eyJ1Ijoibm9pc3lib2lsZXIiLCJhIjoiYjc2MDdlYzY0YWFiYzMxYzljOGYzM2ZlMzcyZmQ2NTUifQ.m20m7hldRUu0kKc1mVCkPw'></iframe>
 
     </section>
-
+    -->
     {% for post in posts %}
     <section class="church-section">
 
@@ -71,14 +71,35 @@
         </article>
 
         <aside class="callout scores">
+            <span> #{{ post.meta('position') }}!</span>
             <h2>{{ post.meta('location') }} Scored</h2>
-            <span>{{ post.meta('score') }} / 100</span>
+            <span>{{ post.meta('score') }} / 100<span>
         </aside>
 
+        {% if not loop.last %}
         <aside></aside>
+        {% endif %}
 
     </section>
 
     {% endfor %}
+
+
+    <aside id="league">
+
+        <h4>League Table</h4>
+        <p>(so far)</p>
+        <ul>
+        <li>Norwich             70/100</li>
+        <li>Lincoln             68/100</li>
+        <li>Exeter              55/100</li>
+        <li>Rochester           50/100</li>
+        <li>Chichester          48/100</li>
+        <li>Southwark           45/100</li>
+        <li>Guildford           40/100</li>
+        </ul>
+
+    </aside>
+
 
 {% endblock %}

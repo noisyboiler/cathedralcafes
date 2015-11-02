@@ -16,6 +16,7 @@
 .. trivia: 4th
 .. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Watch The Omen, find the royal bricks, drink tea.</i></p>
 .. score: 40
+.. position: 7th
 
 
 .. _Guildford Refectory: http://guildfordrefectory.co.uk/

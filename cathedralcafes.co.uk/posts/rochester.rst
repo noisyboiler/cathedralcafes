@@ -16,7 +16,9 @@
 .. treasures: 2nd!!
 .. trivia: 6th
 .. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Find the Wheel Of Fortune, read some (slightly bitter) Dickens trivia, drink tea.</i></p>
-.. score: 43
+.. score: 50
+.. position: 4th
+
 
 ================
 Rochester

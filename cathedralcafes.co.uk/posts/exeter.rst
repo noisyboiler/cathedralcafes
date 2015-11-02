@@ -17,6 +17,8 @@
 .. trivia: 3rd!
 .. musts: <p class="lead large"><span class="strong">Must-Dos:</span> <i>Admire the twin towers, find Hickery Dickery clock, drink tea.</i></p>
 .. score: 54
+.. position: 3rd
+
 
 ================
 Exeter

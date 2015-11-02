@@ -23,7 +23,7 @@ p, li, a {
 }
 
 aside  {
-    min-height: 400px;
+    min-height: 500px;
     background: url('./img/countryside.jpg') no-repeat top center scroll;
 }
 
@@ -94,7 +94,6 @@ aside.callout {
 aside.callout h2 {
     padding: 0;
     margin: 0;
-    min-height: 200px;
 }
 
 aside.callout.fact {
@@ -104,13 +103,15 @@ aside.callout.fact {
 }
 
 aside.callout.scores {
-
+    padding-top: 40px;
 }
 
 aside.callout.scores h2 {
     padding: 0;
     margin: 0;
-    font-size: 140px;
+    font-size: 120px;
+    line-height: 122px;
+    color: black;
 }
 
 aside.callout.scores span {
@@ -120,7 +121,7 @@ aside.callout.scores span {
     line-height: 124px;
     font-family: written;
     font-weight: bold;
-    color: white;
+    color: black;
 }
 
 aside.callout.fact p {
@@ -276,4 +277,27 @@ aside.callout.fact p {
     font-size: 24px;
     line-height: 28px;
 }
+
+
+aside#league {
+    text-align: center;
+    padding-bottom: 140px;
+}
+
+aside#league h4 {
+    margin: 0;
+    padding: 40px 0 0 0;
+    font-family: cathedral;
+    font-size: 100px;
+    line-height: 104px;
+}
+
+aside#league ul {
+    margin: 0;
+    padding: 40px 0 0 0;
+    font-size: 50px;
+    line-height: 56px;
+    list-style-type: none;
+}
+
 

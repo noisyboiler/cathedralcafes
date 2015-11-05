@@ -71,9 +71,10 @@
         </article>
 
         <aside class="callout scores">
-            <span> #{{ post.meta('position') }}!</span>
+            <span>{{ post.meta('position') }}!</span>
+            <!--
             <h2>{{ post.meta('location') }} Scored</h2>
-            <span>{{ post.meta('score') }} / 100<span>
+            <span>{{ post.meta('score') }} / 100<span>-->
         </aside>
 
         {% if not loop.last %}

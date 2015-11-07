@@ -45,14 +45,10 @@ On the way back to the station, an errant guest from a nearby wedding reception 
 The Refectory
 ~~~~~~~~~~~~~
 
-#2nd
-
 An award winning cafe: Winner, National Wood Awards 2004. A stand-out building indeed. A great range of home made cakes which pleased us immensely - a proper CC tasting was had here by the team. The tea was good and strong, the service was chirpy and prompt. We even heard the cheers of the Norwich city fans in the wind as their favourite team scored.
 
 Trivia
 ~~~~~~
-
-#2nd
 
 - The only English city to be excommunicated by the Pope following the riot of 1272.
 - Largest collection of bosses in Christendom. 
@@ -68,8 +64,6 @@ Trivia
 Treasures
 ~~~~~~~~~
 
-#3rd
-
 - Original wall painting carelessly overlooked by the raucous reformers
 - 61 Misericords (mercy seats)
 - The largest collection of bosses in Christendom (396) which tell stories in medievak art!!
@@ -77,15 +71,11 @@ Treasures
 Dead People
 ~~~~~~~~~~~
 
-#2nd
-
 - St William (of Norwich), Child Martyr (d 1144), bruttally murderd by his uncle.
 - Sir Thomas Erpingham, Knight of the Garter (c. 1355–1428), commander of King Henry V's English and Welsh archers at the Battle of Agincourt
 
 Architecture
 ~~~~~~~~~~~~
-
-#2nd
 
 - Near-complete, untouched, unspolit Norman church
 - Gothic perpendicular vaulting

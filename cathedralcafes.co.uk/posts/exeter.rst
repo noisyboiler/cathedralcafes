@@ -49,14 +49,10 @@ Exeter's cafe is a real find. The trio struggled to find anything to fault in th
 Clositers Cafe
 ~~~~~~~~~~~~~~
 
-#1st!
-
 This cafe served Doom Bar straight from the barrel — heavenly. Also a cracking cup of tea here. Plenty of *home-made* cakes — a must for the respect of CC. The Devon cream-teas were delicious and had a very generous serving of clotted cream.
 
 Trivia
 ~~~~~~
-
-#3rd
 
 - History of maurauding Norsemen.
 - Hickery Dickery Dock nursery rhyme
@@ -64,8 +60,6 @@ Trivia
 
 Treasures
 ~~~~~~~~~
-
-#5th
 
 - Astronomical clock
 - Impressive organ
@@ -77,15 +71,11 @@ Treasures
 Dead People
 ~~~~~~~~~~~
 
-#4th
-
 - The British General who imaginatively canme up with the idea of a concentration camp.
 - General John Simcoe - He founded Toronto - although he christened it York.
 
 Architecture
 ~~~~~~~~~~~~
-
-#4th
 
 - Longest uninterrupted vaulted ceiling in the whole world
 - The ONLY cathedral with two squres towers

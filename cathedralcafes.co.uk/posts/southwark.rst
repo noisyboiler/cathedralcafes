@@ -39,14 +39,10 @@ Southwark
 Clositers Cafe
 ~~~~~~~~~~~~~~
 
-#5th
-
 Inside the noisy heart of London but away from the trendies of Borough market, the tourist mayhem and the suits of the city, touch-down in this modern cafe with quaint touches such as hand painted tea pots and mediocre paintings on sale for in excess of 1000 pounds. We had three home cooked cakes here, the best of which was a delicious honey, and walnut and the tea was superb.
 
 Trivia
 ~~~~~~
-
-#5th
 
 - Oldest Gothic church in London
 - Directly outside the trendy Borough Market, neighbour to The Shard
@@ -68,8 +64,6 @@ Trivia
 Treasures
 ~~~~~~~~~
 
-#6th
-
 - Incredible gargolye of a demon eating an unfortunate young lady.
 - large stained glass window dedicated to William Shakespeare
 - alabaster statue representing WS reclining
@@ -82,8 +76,6 @@ Treasures
 
 Dead People
 ~~~~~~~~~~~
-
-#3rd
 
 - St Alfege - but moved to Grenwich
 - 15th-century poet John Gower - poet to Richard II and Henry IV *and* a close friend of Geoffrey Chaucer.
@@ -100,6 +92,3 @@ Architecture
 - Two Norman doorways
 - Original church possibly pre-800AD; witnesses now quite hard to come by
 - Roman roads on show
-
-#7th
-

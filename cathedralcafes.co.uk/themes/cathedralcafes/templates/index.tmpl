@@ -3,6 +3,7 @@
 {% extends 'base.tmpl' %}
 
 {% block content %}
+    <div class="section root sTop"></div>
 
     <header id="top" class="header">
         <div class="text-vertical-center">
@@ -26,57 +27,60 @@
         </div>
         <!-- /.container -->
     </section>
-    <!--
-    <section id="map" class="bg-primary">
 
-        <iframe width='100%' height='750px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/noisyboiler.no4n9p01/attribution,geocoder,share.html?access_token=pk.eyJ1Ijoibm9pc3lib2lsZXIiLCJhIjoiYjc2MDdlYzY0YWFiYzMxYzljOGYzM2ZlMzcyZmQ2NTUifQ.m20m7hldRUu0kKc1mVCkPw'></iframe>
+    <div class="subMenu">
+        <div class="inner">
+            <a href="#sTop" class="subNavBtn">Home</a>
+            {% for post in posts %}
+            <a href="#s{{loop.index}}" class="subNavBtn{% if loop.last %} end{% endif %}">{{ post.meta('location') }}</a> 
+            {% endfor %}
+        </div>
+    </div>
 
-    </section>
-    -->
     {% for post in posts %}
     <section class="church-section">
+        <div class="section s{{loop.index}} {{ post.meta('location') }}">
 
-        <aside class="location">
-            <h2>{{ post.meta('location') }}</h2>
-        </aside>
+            <a name="{{ post.meta('location') }}"></a>
 
-        <article class="h-entry post-{{ post.meta('type') }} {{ post.meta('class') }}">
+            <aside class="location">
+                <h2>{{ post.meta('location') }}</h2>
+            </aside>
 
-        <header>
+            <article class="h-entry post-{{ post.meta('type') }} {{ post.meta('class') }}">
 
-        </header>
+            <header></header>
 
-        <aside class="callout fact">
-            <div class="text-vertical-center">
-                <p>
-                <script>
-                    var diocese = "{{ post.meta('location') }}";
-                    var church_facts = facts[diocese];
-                    var fact = getMeRandomElements(church_facts, 1);
-                    document.write(fact);
-                </script>
-                </p>
-            </div>
+            <aside class="callout fact">
 
-        </aside>
+                <div class="text-vertical-center">
+                    <p>
+                    <script>
+                        var diocese = "{{ post.meta('location') }}";
+                        var church_facts = facts[diocese];
+                        var fact = getMeRandomElements(church_facts, 1);
+                        document.write(fact);
+                    </script>
+                    </p>
+                </div>
 
-        <aside class="church_name">
-            <h3>{{ post.meta('church_name') }}</h3>
-        </aside>
+            </aside>
 
-        {{ post.meta('musts') }}
+            <aside class="church_name">
+                <h3>{{ post.meta('church_name') }}</h3>
+            </aside>
 
-        {{ post.text(teaser_only=False) }}
+            {{ post.meta('musts') }}
 
-        </article>
+            {{ post.text(teaser_only=False) }}
 
-        <aside class="callout scores">
-            <span>{{ post.meta('position') }}!</span>
-            <!--
-            <h2>{{ post.meta('location') }} Scored</h2>
-            <span>{{ post.meta('score') }} / 100<span>-->
-        </aside>
+            </article>
 
+            <aside class="callout scores">
+                <span>{{ post.meta('position') }}!</span>
+            </aside>
+
+        </div>
     </section>
 
     {% endfor %}

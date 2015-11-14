@@ -35,17 +35,15 @@
 
 {% macro html_stylesheets() %}
 
+    <link href="/assets/css/demo.css" rel="stylesheet" type="text/css">
     <link href="/assets/css/bootstrap.css" rel="stylesheet" type="text/css">
     {% if has_custom_css %}
         <!---->
     {% endif %}
 
+
     <link href="/assets/css/stylish-portfolio.css" rel="stylesheet">
     <link href="/assets/css/custom.css" rel="stylesheet" type="text/css">
-    <link href="/assets/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
-
-    <!-- Custom Fonts -->
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
 {% endmacro %}
 
